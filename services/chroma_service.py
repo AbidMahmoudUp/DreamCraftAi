@@ -265,12 +265,36 @@ class ChromaService:
                 "query_embeddings": [query_embedding],
                 "n_results": max_results
             }
-            if where:
-                search_params["where"] = where
             
+            # Handle where clause properly
+            if where:
+                # Ensure where clause is correctly formatted for chromadb
+                # Simplify complex where clauses that might cause dimensionality issues
+                if "$and" in where:
+                    # Extract simple conditions from the $and clause
+                    conditions = where["$and"]
+                    simplified_where = {}
+                    
+                    for condition in conditions:
+                        if isinstance(condition, dict) and len(condition) == 1:
+                            key = list(condition.keys())[0]
+                            simplified_where[key] = condition[key]
+                    
+                    # Use simplified where if we got any conditions
+                    if simplified_where:
+                        search_params["where"] = simplified_where
+                    else:
+                        # Fall back to just language if available
+                        language_condition = next((c for c in conditions if "language" in c), None)
+                        if language_condition:
+                            search_params["where"] = {"language": language_condition["language"]}
+                else:
+                    search_params["where"] = where
+                    
+            # Add error handling for empty results
             results = self.collection.query(**search_params)
             
-            if not results["documents"][0]:
+            if not results["documents"] or not results["documents"][0]:
                 return ""
                 
             # Format results into a single context string
@@ -283,8 +307,28 @@ class ChromaService:
             
         except Exception as e:
             logger.error(f"Error retrieving context: {str(e)}")
-            return ""
-        
+            # Try a more basic query if the complex one fails
+            try:
+                # Simplified query without complex where clauses
+                basic_results = self.collection.query(
+                    query_embeddings=[query_embedding],
+                    n_results=max_results
+                )
+                
+                if not basic_results["documents"] or not basic_results["documents"][0]:
+                    return ""
+                    
+                # Format results into a single context string
+                context = ""
+                for doc, metadata in zip(basic_results["documents"][0], basic_results["metadatas"][0]):
+                    source = metadata.get("source_file", "Unknown")
+                    context += f"---\n{doc}\nsource_file:{source}\n---\n"
+                    
+                return context.strip()
+                
+            except Exception as nested_e:
+                logger.error(f"Even basic retrieval failed: {str(nested_e)}")
+                return ""
     def store_conversation(self, question: str, response: str):
         """Store a conversation for future retrieval."""
         try:
