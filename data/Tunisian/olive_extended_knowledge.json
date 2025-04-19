@@ -1,0 +1,211 @@
+{
+  "olive_topics": [
+    {
+      "title": "El Zitouna wel Amrath",
+      "topic": "amrath_zitoun",
+      "content": [
+        {
+          "subtitle": "3ayn el tawous (Cycloconium)",
+          "description": "El mardh hetha y5alli ta9a3 kahla 3al wra9, kima 3ayn el tawous",
+          "symptoms": [
+            "Ta9a3 kahla mdawra 3al wra9",
+            "El wra9 yebdew ysafrou w ytie7ou",
+            "El 3afej yji m3a el rtoba el 3alya",
+            "El chajra ma3atch ta3ti barcha zitoun"
+          ],
+          "treatment": [
+            "Lazem troch bel mbidet el monaseb",
+            "El rcha tkoun bekri fel sbe7 walla m3a el 3chiya",
+            "Lazem t9allem el chajra bech yd5olha el hwe mli7",
+            "Na77i el wra9 el tab3in ta7t el chajra"
+          ],
+          "prevention": [
+            "9allem el chajra kol 3am",
+            "5alli msafa kfaya bin el chjar",
+            "A3mel drainage lel ma bech ma tet3abbach",
+            "Raqeb el wra9 kol nhar bech tal9a ay mochkla bekri"
+          ],
+          "common_phrases": [
+            "El cycloconium mardh ma3rouf 3and kol el fella7a",
+            "Ken ma troch-ch bekri, el mardh yentacher barcha",
+            "El wa9aya 5ir mel 3ilej ya si el fella7",
+            "El chajra el 9wiya t9awem el mardh 5ir"
+          ],
+          "seasonal_tips": {
+            "spring": [
+              "Fel rbi3 lazem troch 9bal ma yebda el mardh",
+              "El rbi3 wa9t el 5toura 5ater el jaw ybadel"
+            ],
+            "summer": [
+              "Fel sayf raqeb el chajra mel 7rara el 9wiya",
+              "Ma tfartach-ch barcha fel sayf"
+            ],
+            "fall": [
+              "Fel 5rif a3mel el rcha el wa9iya",
+              "E5dem el trab 7wel el chajra"
+            ],
+            "winter": [
+              "Fel chté na77i el wra9 el maridha",
+              "Profiti mel chté bech troch"
+            ]
+          },
+          "dialogue_patterns": {
+            "questions": [
+              "Chnoua na3mel ken nal9a ta9a3 kahla fel wra9?",
+              "9addech men marra lazem nroch fel 3am?",
+              "Wa9teh a7san wa9t lel roch?"
+            ],
+            "responses": [
+              "Chouf, ken tal9a ta9a3 kahla, lazem tebda troch toul. El mardh hetha yemchi b sor3a.",
+              "Isma3 ya 5ouya, el roch ykoun 3al 7sab el jaw. Ken famma rtoba, zid roch.",
+              "A3mel belek, el roch ma ykounech wa9t el 7arr. Roch bekri fel sbe7 walla m3a el 3chiya."
+            ]
+          },
+          "situational_context": {
+            "weather_related": [
+              "Ken el jaw msab7 w fih rtoba, el mardh yemchi b sor3a",
+              "Wa9t el chté lazem tkoun mta3ni akther bel roch",
+              "Fel sayf, raqeb el chajra kol nhar"
+            ],
+            "seasonal_transitions": [
+              "9bal ma yji el 5rif, baddi bel wa9aya",
+              "Ma3a awel el rbi3, lazem tbadel el systeme mta3 el roch",
+              "Fel sayf el 7arr, zid fil 7maya mta3 el chajra"
+            ]
+          },
+          "emotional_expressions": [
+            "Wallahi el mardh hetha y9alle9!",
+            "Ya 7asra 3al ghalla ken ma na3mlou ch el wa9aya!",
+            "El 7amdoullah, el 3ilej mawjoud ken nsab9ou fil wa9t!"
+          ]
+        },
+        {
+          "subtitle": "El Vertichillium (El Dboul)",
+          "description": "Mardh y5alli el wra9 ydboulou w yjiffou, yebda men jiha wa7da fel chajra",
+          "symptoms": [
+            "El wra9 yebdew ydboulou men jiha wa7da",
+            "El 3wood yebdew ymoutou",
+            "El zitoun ma ynodj-ch mli7",
+            "El chajra tod3of chway b chway"
+          ],
+          "treatment": [
+            "Lazem t9oss el 3wood el maridha",
+            "T7assen el trab bel engrais el monaseb",
+            "Ma tfartach-ch barcha fel mardh hetha",
+            "Badel el trab ken lzem el 7al"
+          ],
+          "prevention": [
+            "E5tar el chjar el m9awmin lel mardh",
+            "T7akem fel ma bech ma yzidch 3al el lzem",
+            "Na77i el 7chich el dhar men ta7t el chajra",
+            "Naddhaf el 3odda el mosta3mla"
+          ],
+          "common_phrases": [
+            "El vertichillium mardh s3ib 3al el chajra",
+            "El 3ilej ya5ou wa9t, ma testa3jelch",
+            "El mardh hetha ya3mel el 5sara fel ghalla",
+            "El fella7 el mriguel ya3ref wa9teh yda5al"
+          ],
+          "farmer_experience": [
+            "Fi blad el sa7el, el mardh hetha ma3rouf barcha",
+            "El fella7a el kbar y9olou el wa9aya 5ir mel 3ilej",
+            "Kol 3am nal9aw el mochkla hedhi fel 7wem",
+            "El 5ibra wel mo7adara yhabbto mel mardh"
+          ]
+        },
+        {
+          "subtitle": "El Ta3fen (Pourriture)",
+          "description": "El ta3fen yji fel zitoun wa9telli ykoun famma barcha rtoba walla jra7 fel zitoun",
+          "symptoms": [
+            "El zitoun yebda yet3afen w yetkarkar",
+            "Ybadel el loun mta3ou lel eswed",
+            "Yjib el doud fel zitoun",
+            "Ykoun fih ri7a moch mli7a"
+          ],
+          "treatment": [
+            "Ejma3 el zitoun el tab3in",
+            "Roch el chajra bel mbidet el monaseb",
+            "Na77i el zitoun el met3afen",
+            "Naddhaf el ardh men el zitoun el tab3in"
+          ],
+          "prevention": [
+            "Ejma3 el zitoun fel wa9t",
+            "Ma t5alich el zitoun barcha 3al chajra",
+            "Ejma3 el zitoun b nadafa",
+            "Ma tejma3ch fel rtoba"
+          ],
+          "seasonal_advice": {
+            "harvest_time": [
+              "Wa9t el jme3, chouf el zitoun mli7 9bal ma tejma3",
+              "El jme3 fil wa9t a7san 7all",
+              "El zitoun el met3afen y5asser el zit",
+              "El farz mta3 el zitoun mohem barcha"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "El 5edma fel Zitouna",
+      "topic": "5edmet_zitoun",
+      "content": [
+        {
+          "subtitle": "El Ta9lim (La taille)",
+          "description": "El ta9lim mohem barcha lel zitouna bech ta3ti ghalla behia",
+          "techniques": [
+            "9allem el 3wood el dha3fa",
+            "5alli el chajra mafto7a mel wost",
+            "9os el 3wood el yebsin",
+            "Naddhaf el chajra men el 3wood el zeydin"
+          ],
+          "timing": [
+            "El ta9lim ykoun ba3d el jme3",
+            "Ma t9allemch fel 7arr el 9wi",
+            "El ta9lim kol 3am walla 3am 3la 3am",
+            "El chajra el kbira t7eb ta9lim kol 3am"
+          ],
+          "tools": [
+            "El men9ach ykoun 7ad w ndhif",
+            "El menchwar lel 3wood el r9a9",
+            "El mnacher lel 3wood el kbar",
+            "Naddhaf el 3odda ba3d el 5edma"
+          ],
+          "common_phrases": [
+            "El ta9lim fan ya si el fella7",
+            "El zitouna ki ma t9allemhech, ma ta3tich",
+            "El 9lam el behi ya3ti ghalla behia",
+            "Ma tensa ch t7ot el ma3joun ba3d el 9lam"
+          ]
+        },
+        {
+          "subtitle": "El Trab wel Tesmi7",
+          "description": "El trab wel tesmi7 asas el zitouna el behia",
+          "soil_care": [
+            "A7reth el trab marra fel 3am 3al 9all",
+            "Zid el fumier el bahari fel chté",
+            "Na77i el 7chich men ta7t el chajra",
+            "5alli el trab ykoun mfakek"
+          ],
+          "fertilization": [
+            "El tesmi7 ykoun 3al 7sab 3omr el chajra",
+            "Zid el azote fel rbi3",
+            "El potasse mohem lel ghalla",
+            "Ma tzidch barcha smad, moch behia lel chajra"
+          ],
+          "irrigation": [
+            "El zitouna ma t7ebch barcha ma",
+            "El ma fel sayf mohem barcha",
+            "El ri ykoun 3al 7sab el mnakh",
+            "El ma el zayed yadhur bel chajra"
+          ],
+          "expert_tips": [
+            "El trab el behi yfarke7 el zitouna",
+            "El 5edma mta3 el trab t7assen el ghalla",
+            "El tesmi7 el behi ya3tik zit behi",
+            "El zitouna omha el trab"
+          ]
+        }
+      ]
+    }
+  ]
+} 

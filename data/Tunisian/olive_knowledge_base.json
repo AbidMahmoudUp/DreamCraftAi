@@ -1,0 +1,138 @@
+{
+  "olive_topics": [
+    {
+      "topic": "amrath_zitoun",
+      "title": "El Amrath mta3 el Zitoun",
+      "content": [
+        {
+          "subtitle": "3in et-tawous (Cycloconium)",
+          "description": "El mardh el akther ma3rouf fil zitoun. Y5ali b9a3 kahla 3al wra9 kima 3in et-tawous.",
+          "symptoms": [
+            "B9a3 kahla mdawra 3al wra9",
+            "El wra9 yasfar w ytie7",
+            "Yodhor akther fil jihet el dhlila mel chajra"
+          ],
+          "treatment": [
+            "Roch bouillie bordelaise fi octobre",
+            "9allem el chajra bech tod5ol el chams w el hwe",
+            "Na7i el wra9 el mridha w el tayha"
+          ],
+          "prevention": [
+            "Roch wa9i kol 5rif",
+            "5alli msefa bin el chjar",
+            "Na7i el 3cheb el zayed"
+          ]
+        },
+        {
+          "subtitle": "El 3afej (Verticillium)",
+          "description": "Mardh y5arreb el 3rou9 w y5ali el wra9 yebda yibes.",
+          "symptoms": [
+            "El wra9 yibes min jiha wa7da mel chajra",
+            "El 3rou9 ywaliw kahlin mel da5el",
+            "El frou3 ymoutou wa7da wa7da"
+          ],
+          "treatment": [
+            "Na7i el frou3 el miytin",
+            "9os el jdhor el mridha",
+            "Baddel el torbat ken tnajem"
+          ],
+          "prevention": [
+            "A7reth el ardh mli7",
+            "Mat7otch 5dhra 9rib mel zitoun",
+            "Esta3mel chetlat slima"
+          ]
+        },
+        {
+          "subtitle": "El Dabbousia (Tuberculosis)",
+          "description": "T5ali 3o9ad 3al 3idan w tfassa5 el 9ochra.",
+          "symptoms": [
+            "3o9ad 3al 3idan el jded",
+            "El 9ochra tetfassa5 w todhhor el 5cheb",
+            "El frou3 el sghira tmout"
+          ],
+          "treatment": [
+            "9os el 3idan el mridha",
+            "Roch n7as 3al 3o9ad",
+            "Dehen el 9ossat bil mastik"
+          ],
+          "prevention": [
+            "Na9i el m9as ba3d kol chajra",
+            "A7reth ta7t el chjar",
+            "Roch n7as fi awel el 5rif"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "ta9lim_zitoun",
+      "title": "Ta9lim el Zitoun",
+      "content": [
+        {
+          "subtitle": "Wa9t el Ta9lim",
+          "description": "El ta9lim ykoun ba3d el ghalla w 9bal el rbii3",
+          "timing": [
+            "El wa9t el mthali: janvier/février",
+            "Ba3d ma to5les el ghalla",
+            "9bal ma tabda el chajra tfawwe7"
+          ],
+          "important_notes": [
+            "Mata9allemch fil s5ana barcha wala fil bard barcha",
+            "El ta9lim el 5afif kol 3am 5ir mel ta9lim el kbir kol 5 snin",
+            "Lazem el m9as ykoun 7ad w ndhif"
+          ]
+        },
+        {
+          "subtitle": "Kifech T9allem",
+          "description": "El ta9lim fann w 3andou osoul. El hedef ta3ti daw w hwe lel chajra.",
+          "steps": [
+            "Baddi bel 3idan el miytin w el mridha",
+            "Na7i el 3idan elli msakkrin el wost",
+            "5alli el chajra kima el kas ma9loub",
+            "El 9oss mta3ek ykoun mayal chwaya"
+          ],
+          "tips": [
+            "Esta3mel m9as twil lel 3ali",
+            "Na9i el m9as ba3d kol chajra",
+            "Ejma3 el 3idan w 7ar9hom ba3id"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "ghalla_zitoun",
+      "title": "Ghallet el Zitoun",
+      "content": [
+        {
+          "subtitle": "Zyed fil Ghalla",
+          "description": "Bech tzid fil ghalla lazem t5adem el ardh w el chajra mli7.",
+          "techniques": [
+            "Ta9lim mta3 kol 3am yzid fil ghalla",
+            "El 5edma mta3 el ardh tzid fil ghalla",
+            "El roch fil wa9t y7afedh 3al ghalla"
+          ],
+          "timing": [
+            "El ta9lim fi janvier/février",
+            "El roch fi octobre",
+            "El 7arth fi mars/avril"
+          ]
+        },
+        {
+          "subtitle": "Mochklet el Ghalla",
+          "description": "El ghalla ten9es l3aded men el asbeb.",
+          "problems": [
+            "El chajra t3ayet ba3d 3am mta3 ghalla bchia",
+            "El amrath y5arrbou el wra9 w el nwar",
+            "9ellet el ma w el smed",
+            "El ta9lim moch behi"
+          ],
+          "solutions": [
+            "5adem el ardh w samed-ha kol 3am",
+            "Roch el chajra mel amrath fil wa9t",
+            "S9i el chajra ken fama jfef",
+            "9allem el chajra kol 3am"
+          ]
+        }
+      ]
+    }
+  ]
+} 

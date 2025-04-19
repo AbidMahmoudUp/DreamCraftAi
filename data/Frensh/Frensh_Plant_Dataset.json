@@ -1,0 +1,1845 @@
+[
+    {
+      "id": 1,
+      "conversation": {
+        "human": "Bonjour, j'ai besoin d'aide ! Les feuilles de mes tomates présentent des taches brunes avec des anneaux concentriques. Pouvez-vous m'aider ?",
+        "assistant": "Bonjour ! Je suis là pour vous aider avec vos questions agricoles. D'après votre description, il semble que vos plants de tomates soient affectés par l'alternariose, également connue sous le nom de maladie des taches brunes."
+      },
+      "disease_info": {
+        "name": "Alternariose",
+        "scientific_name": "Alternaria solani",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Tomate",
+          "Pomme de terre",
+          "Aubergine"
+        ],
+        "symptoms": [
+          "Taches brunes à noires avec des anneaux concentriques",
+          "Jaunissement des feuilles autour des taches",
+          "Les taches apparaissent d'abord sur les feuilles âgées",
+          "Les feuilles peuvent mourir et tomber"
+        ],
+        "treatment_steps": [
+          "Enlever et détruire les feuilles infectées",
+          "Appliquer un fongicide à base de cuivre",
+          "Assurer un bon espacement des plants pour la circulation d'air",
+          "Arroser à la base des plants pour garder les feuilles sèches"
+        ],
+        "prevention": [
+          "Rotation des cultures tous les 2-3 ans",
+          "Utiliser des variétés résistantes aux maladies",
+          "Maintenir un bon espacement entre les plants",
+          "Pailler autour des plants"
+        ],
+        "severity": "Modérée à Sévère"
+      }
+    },
+    {
+      "id": 2,
+      "conversation": {
+        "human": "Mes vignes ont des feuilles couvertes d'une poudre blanche. Qu'est-ce que c'est et comment traiter ?",
+        "assistant": "Bonjour ! D'après votre description, il s'agit de l'oïdium de la vigne, une maladie fongique courante dans les vignobles. Je vais vous aider à identifier et traiter ce problème."
+      },
+      "disease_info": {
+        "name": "Oïdium de la vigne",
+        "scientific_name": "Erysiphe necator",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Vigne"
+        ],
+        "symptoms": [
+          "Poudre blanche farineuse sur les feuilles, les tiges et les fruits",
+          "Feuilles qui se recroquevillent",
+          "Ralentissement de la croissance",
+          "Fissures sur les baies qui peuvent se dessécher",
+          "Odeur de moisi caractéristique"
+        ],
+        "treatment_steps": [
+          "Appliquer un fongicide à base de soufre",
+          "Traiter dès les premiers signes de la maladie",
+          "Renouveler le traitement après une pluie",
+          "Éclaircir le feuillage pour améliorer la circulation d'air"
+        ],
+        "prevention": [
+          "Plantation dans des zones bien aérées",
+          "Taille régulière pour favoriser la circulation d'air",
+          "Traitement préventif au soufre avant la floraison",
+          "Utiliser des cépages résistants"
+        ],
+        "severity": "Modérée à Sévère"
+      }
+    },
+    {
+      "id": 3,
+      "conversation": {
+        "human": "Mes pommiers présentent des taches oranges sur les feuilles, est-ce grave ?",
+        "assistant": "Bonjour ! D'après votre description, vos pommiers semblent être atteints de la tavelure du pommier, une maladie fongique très commune. Je vais vous donner des informations pour l'identifier et la traiter correctement."
+      },
+      "disease_info": {
+        "name": "Tavelure du pommier",
+        "scientific_name": "Venturia inaequalis",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Pommier",
+          "Poirier"
+        ],
+        "symptoms": [
+          "Taches brun-olive à noires sur les feuilles",
+          "Taches liégeuses sur les fruits",
+          "Déformation des fruits infectés",
+          "Chute prématurée des feuilles",
+          "Craquelures des fruits"
+        ],
+        "treatment_steps": [
+          "Appliquer un fongicide préventif dès le débourrement",
+          "Répéter les traitements tous les 10-14 jours en période humide",
+          "Ramasser et détruire les feuilles mortes à l'automne",
+          "Tailler pour améliorer la circulation d'air"
+        ],
+        "prevention": [
+          "Choisir des variétés résistantes",
+          "Tailler régulièrement pour aérer l'arbre",
+          "Éviter l'arrosage par aspersion",
+          "Appliquer une couche d'urée sur les feuilles tombées"
+        ],
+        "severity": "Sévère"
+      }
+    },
+    {
+      "id": 4,
+      "conversation": {
+        "human": "Mes plants de concombre ont des feuilles avec des taches jaunes qui se dessèchent. Que se passe-t-il ?",
+        "assistant": "Bonjour ! D'après votre description, vos plants de concombre semblent être affectés par le mildiou, une maladie fongique favorisée par l'humidité. Je vais vous aider à identifier ce problème et à le traiter."
+      },
+      "disease_info": {
+        "name": "Mildiou du concombre",
+        "scientific_name": "Pseudoperonospora cubensis",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Concombre",
+          "Melon",
+          "Courge",
+          "Courgette"
+        ],
+        "symptoms": [
+          "Taches jaunes anguleuses sur la face supérieure des feuilles",
+          "Duvet gris-violet sur la face inférieure des feuilles",
+          "Dessèchement et brunissement des feuilles",
+          "Progression rapide par temps humide",
+          "Réduction de la production de fruits"
+        ],
+        "treatment_steps": [
+          "Enlever et détruire les parties infectées",
+          "Appliquer un fongicide à base de cuivre",
+          "Réduire l'humidité ambiante",
+          "Éviter d'arroser le feuillage"
+        ],
+        "prevention": [
+          "Utiliser des variétés résistantes",
+          "Assurer une bonne circulation d'air",
+          "Pailler pour éviter les éclaboussures de sol",
+          "Pratiquer la rotation des cultures"
+        ],
+        "severity": "Sévère"
+      }
+    },
+    {
+      "id": 5,
+      "conversation": {
+        "human": "Les feuilles de mes rosiers sont couvertes de taches noires. Comment puis-je traiter ce problème ?",
+        "assistant": "Bonjour ! D'après votre description, vos rosiers sont probablement atteints de la maladie des taches noires, une infection fongique très commune chez les rosiers. Je vais vous aider à identifier et traiter ce problème."
+      },
+      "disease_info": {
+        "name": "Maladie des taches noires du rosier",
+        "scientific_name": "Diplocarpon rosae",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Rosier"
+        ],
+        "symptoms": [
+          "Taches noires circulaires sur les feuilles",
+          "Jaunissement autour des taches noires",
+          "Chute prématurée des feuilles",
+          "Affaiblissement général de la plante",
+          "Diminution de la floraison"
+        ],
+        "treatment_steps": [
+          "Enlever et détruire toutes les feuilles infectées",
+          "Appliquer un fongicide spécifique",
+          "Traiter régulièrement pendant la saison de croissance",
+          "Éviter de mouiller les feuilles lors de l'arrosage"
+        ],
+        "prevention": [
+          "Choisir des variétés résistantes",
+          "Maintenir une bonne circulation d'air",
+          "Éviter l'arrosage par le haut",
+          "Nettoyer et détruire les feuilles mortes en automne"
+        ],
+        "severity": "Modérée"
+      }
+    },
+    {
+      "id": 6,
+      "conversation": {
+        "human": "J'ai remarqué des insectes verts sur mes plants de haricots et les feuilles deviennent collantes. Que dois-je faire ?",
+        "assistant": "Bonjour ! D'après votre description, vous avez une infestation de pucerons sur vos plants de haricots. Je vais vous donner des informations sur ce ravageur et comment le contrôler efficacement."
+      },
+      "disease_info": {
+        "name": "Infestation de pucerons",
+        "scientific_name": "Famille des Aphididae",
+        "category": "Ravageur",
+        "affected_plants": [
+          "Haricot",
+          "Rose",
+          "Salade",
+          "La plupart des légumes et plantes ornementales"
+        ],
+        "symptoms": [
+          "Présence de petits insectes verts, noirs ou rouges",
+          "Feuilles recroquevillées ou déformées",
+          "Substance collante (miellat) sur les feuilles",
+          "Présence de fourmis attirées par le miellat",
+          "Développement de fumagine (moisissure noire)"
+        ],
+        "treatment_steps": [
+          "Pulvériser un jet d'eau fort pour déloger les pucerons",
+          "Appliquer du savon insecticide ou de l'huile de neem",
+          "Introduire des prédateurs naturels comme les coccinelles",
+          "En cas d'infestation sévère, utiliser un insecticide biologique"
+        ],
+        "prevention": [
+          "Inspecter régulièrement les plantes",
+          "Planter des fleurs attractives pour les insectes auxiliaires",
+          "Éviter les excès d'azote dans la fertilisation",
+          "Maintenir les plantes en bonne santé"
+        ],
+        "severity": "Légère à Modérée"
+      }
+    },
+    {
+      "id": 7,
+      "conversation": {
+        "human": "Mes plants de tomates se flétrissent soudainement même si le sol est humide. Qu'est-ce qui ne va pas ?",
+        "assistant": "Bonjour ! D'après votre description de flétrissement soudain malgré un sol humide, vos tomates sont probablement atteintes de fusariose, une maladie fongique qui attaque le système vasculaire. Je vais vous aider à comprendre et gérer ce problème."
+      },
+      "disease_info": {
+        "name": "Fusariose de la tomate",
+        "scientific_name": "Fusarium oxysporum f.sp. lycopersici",
+        "category": "Maladie fongique vasculaire",
+        "affected_plants": [
+          "Tomate",
+          "Poivron",
+          "Aubergine",
+          "Melon"
+        ],
+        "symptoms": [
+          "Jaunissement progressif des feuilles inférieures",
+          "Flétrissement des plantes malgré un sol humide",
+          "Brunissement des vaisseaux conducteurs dans la tige",
+          "Progression des symptômes du bas vers le haut",
+          "Rabougrissement de la plante"
+        ],
+        "treatment_steps": [
+          "Arracher et détruire les plants infectés",
+          "Ne pas composter les résidus infectés",
+          "Désinfecter les outils de jardinage",
+          "Le traitement curatif est difficile une fois la plante infectée"
+        ],
+        "prevention": [
+          "Utiliser des variétés résistantes (indiquées F1, F2 ou F3)",
+          "Pratiquer une rotation des cultures sur 3-4 ans",
+          "Solariser le sol avant plantation",
+          "Maintenir un pH du sol légèrement acide (6-6,5)"
+        ],
+        "severity": "Très sévère"
+      }
+    },
+    {
+      "id": 8,
+      "conversation": {
+        "human": "Les pommes de terre que j'ai récoltées ont des taches brunes à l'intérieur. Est-ce que je peux les manger ?",
+        "assistant": "Bonjour ! D'après votre description, vos pommes de terre semblent être affectées par la maladie du cœur brun, un trouble physiologique. Je vais vous expliquer de quoi il s'agit et si ces pommes de terre sont comestibles."
+      },
+      "disease_info": {
+        "name": "Cœur brun de la pomme de terre",
+        "scientific_name": "Trouble physiologique (non pathogène)",
+        "category": "Trouble physiologique",
+        "affected_plants": [
+          "Pomme de terre"
+        ],
+        "symptoms": [
+          "Taches brunes dans la chair des tubercules",
+          "Cavités brunes au centre de la pomme de terre",
+          "Aspect normal à l'extérieur du tubercule",
+          "Pas de symptômes visibles sur le feuillage"
+        ],
+        "treatment_steps": [
+          "Aucun traitement pour les tubercules déjà affectés",
+          "Les pommes de terre légèrement affectées restent comestibles (couper les parties brunes)",
+          "Jeter les tubercules fortement affectés"
+        ],
+        "prevention": [
+          "Maintenir une irrigation régulière pendant la saison de croissance",
+          "Éviter les périodes de sécheresse suivies d'arrosage abondant",
+          "Stocker les pommes de terre dans des conditions appropriées",
+          "Choisir des variétés moins sensibles"
+        ],
+        "severity": "Légère"
+      }
+    },
+    {
+      "id": 9,
+      "conversation": {
+        "human": "Les feuilles de mon olivier sont couvertes de petites taches rondes claires. Est-ce une maladie ?",
+        "assistant": "Bonjour ! D'après votre description, votre olivier est probablement atteint de l'œil de paon, une maladie fongique très répandue chez les oliviers. Je vais vous aider à identifier et traiter ce problème."
+      },
+      "disease_info": {
+        "name": "Œil de paon",
+        "scientific_name": "Spilocaea oleaginea",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Olivier"
+        ],
+        "symptoms": [
+          "Taches circulaires de couleur brun-jaune sur les feuilles",
+          "Taches avec un halo jaunâtre ressemblant à un œil",
+          "Chute prématurée des feuilles",
+          "Affaiblissement général de l'arbre",
+          "Réduction de la production d'olives"
+        ],
+        "treatment_steps": [
+          "Appliquer un fongicide à base de cuivre",
+          "Traiter en automne et au printemps",
+          "Tailler pour favoriser la circulation d'air",
+          "Ramasser et détruire les feuilles tombées"
+        ],
+        "prevention": [
+          "Maintenir une bonne aération de la canopée",
+          "Effectuer des traitements préventifs avant les périodes pluvieuses",
+          "Choisir des variétés résistantes",
+          "Éviter les plantations trop denses"
+        ],
+        "severity": "Modérée"
+      }
+    },
+    {
+      "id": 10,
+      "conversation": {
+        "human": "Les fruits de mon abricotier sont couverts d'excroissances et se déforment. Quelle est cette maladie ?",
+        "assistant": "Bonjour ! D'après votre description, votre abricotier est probablement atteint de la maladie des pochettes, une infection fongique qui déforme les fruits. Je vais vous donner des informations pour identifier et traiter ce problème."
+      },
+      "disease_info": {
+        "name": "Maladie des pochettes",
+        "scientific_name": "Taphrina deformans",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Abricotier",
+          "Pêcher",
+          "Prunier"
+        ],
+        "symptoms": [
+          "Fruits gonflés et déformés",
+          "Surface rugueuse et blanchâtre sur les fruits",
+          "Absence de noyau dans les fruits",
+          "Feuilles frisées et rougeâtres",
+          "Chute prématurée des fruits déformés"
+        ],
+        "treatment_steps": [
+          "Enlever et détruire tous les fruits infectés",
+          "Appliquer un fongicide à base de cuivre",
+          "Traiter en fin d'hiver avant le débourrement",
+          "Répéter le traitement en cas de printemps humide"
+        ],
+        "prevention": [
+          "Traitement préventif à la chute des feuilles",
+          "Second traitement avant le gonflement des bourgeons",
+          "Tailler pour améliorer la circulation d'air",
+          "Éliminer les fruits momifiés"
+        ],
+        "severity": "Modérée à Sévère"
+      }
+    },
+    {
+      "id": 11,
+      "conversation": {
+        "human": "Mes plants de fraisiers ont des feuilles tachées de rouge et les fruits pourrissent. Que faire ?",
+        "assistant": "Bonjour ! D'après votre description, vos fraisiers semblent être affectés par l'anthracnose, une maladie fongique qui touche à la fois le feuillage et les fruits. Je vais vous aider à identifier et traiter ce problème."
+      },
+      "disease_info": {
+        "name": "Anthracnose du fraisier",
+        "scientific_name": "Colletotrichum acutatum",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Fraisier"
+        ],
+        "symptoms": [
+          "Taches rouge-brun sur les feuilles",
+          "Lésions brunes sur les fruits verts qui deviennent noires",
+          "Fruits momifiés",
+          "Lésions sur les stolons et les pétioles",
+          "Pourriture sèche des fruits mûrs"
+        ],
+        "treatment_steps": [
+          "Enlever et détruire toutes les parties infectées",
+          "Appliquer un fongicide homologué",
+          "Réduire l'irrigation par aspersion",
+          "Espacer les plants pour améliorer la circulation d'air"
+        ],
+        "prevention": [
+          "Utiliser des plants certifiés sains",
+          "Pailler pour éviter les éclaboussures de sol",
+          "Pratiquer la rotation des cultures",
+          "Éviter d'arroser le feuillage"
+        ],
+        "severity": "Sévère"
+      }
+    },
+    {
+      "id": 12,
+      "conversation": {
+        "human": "Les feuilles de mes plants de courgettes sont couvertes d'une poudre blanche. Comment traiter ?",
+        "assistant": "Bonjour ! D'après votre description, vos plants de courgettes sont atteints d'oïdium, une maladie fongique très commune chez les cucurbitacées. Je vais vous aider à identifier et traiter ce problème."
+      },
+      "disease_info": {
+        "name": "Oïdium des cucurbitacées",
+        "scientific_name": "Podosphaera xanthii",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Courgette",
+          "Concombre",
+          "Melon",
+          "Courge"
+        ],
+        "symptoms": [
+          "Poudre blanche farineuse sur les feuilles",
+          "Taches chlorotiques sur la face supérieure des feuilles",
+          "Jaunissement et dessèchement progressif des feuilles",
+          "Défoliation prématurée",
+          "Réduction de la production"
+        ],
+        "treatment_steps": [
+          "Enlever les feuilles fortement atteintes",
+          "Pulvériser une solution de bicarbonate de soude",
+          "Appliquer un fongicide à base de soufre",
+          "Traiter tôt le matin ou en soirée"
+        ],
+        "prevention": [
+          "Choisir des variétés résistantes",
+          "Assurer une bonne circulation d'air",
+          "Éviter l'excès d'azote dans la fertilisation",
+          "Arroser au pied des plants plutôt que sur le feuillage"
+        ],
+        "severity": "Modérée"
+      }
+    },
+    {
+      "id": 13,
+      "conversation": {
+        "human": "Les feuilles de mon cerisier se couvrent de petits trous comme si elles avaient été criblées de plombs. Quelle est cette maladie ?",
+        "assistant": "Bonjour ! D'après votre description, votre cerisier est probablement atteint de la criblure du cerisier, également appelée maladie du criblage. Je vais vous aider à identifier et traiter cette infection fongique."
+      },
+      "disease_info": {
+        "name": "Criblure du cerisier",
+        "scientific_name": "Stigmina carpophila",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Cerisier",
+          "Prunier",
+          "Pêcher",
+          "Abricotier"
+        ],
+        "symptoms": [
+          "Petites taches rougeâtres sur les feuilles",
+          "Tissus nécrosés qui se détachent, laissant des trous",
+          "Aspect criblé des feuilles",
+          "Taches brunes sur les fruits",
+          "Exsudation de gomme sur les rameaux"
+        ],
+        "treatment_steps": [
+          "Appliquer un fongicide à base de cuivre",
+          "Traiter à la chute des feuilles et au débourrement",
+          "Éliminer les parties infectées",
+          "Répéter le traitement en cas de printemps pluvieux"
+        ],
+        "prevention": [
+          "Nettoyer les débris végétaux sous l'arbre",
+          "Assurer une bonne circulation d'air par la taille",
+          "Éviter les excès d'irrigation",
+          "Traitement préventif au cuivre en automne"
+        ],
+        "severity": "Modérée"
+      }
+    },
+    {
+      "id": 14,
+      "conversation": {
+        "human": "Mes plants de tomates ont des taches blanches sur les feuilles qui deviennent ensuite brunes. Qu'est-ce que c'est ?",
+        "assistant": "Bonjour ! D'après votre description, vos plants de tomates sont probablement affectés par la septoriose, une maladie fongique courante. Je vais vous aider à identifier et traiter ce problème."
+      },
+      "disease_info": {
+        "name": "Septoriose de la tomate",
+        "scientific_name": "Septoria lycopersici",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Tomate"
+        ],
+        "symptoms": [
+          "Petites taches circulaires gris-blanc sur les feuilles",
+          "Taches avec un centre gris et une bordure foncée",
+          "Jaunissement progressif des feuilles",
+          "Progression de la maladie du bas vers le haut",
+          "Défoliation importante"
+        ],
+        "treatment_steps": [
+          "Enlever et détruire les feuilles infectées",
+          "Appliquer un fongicide à base de cuivre ou de mancozèbe",
+          "Répéter l'application tous les 7-10 jours",
+          "Éviter de mouiller le feuillage lors de l'arrosage"
+        ],
+        "prevention": [
+          "Rotation des cultures sur 3 ans",
+          "Pailler pour éviter les éclaboussures du sol",
+          "Maintenir un bon espacement entre les plants",
+          "Nettoyer les débris de culture en fin de saison"
+        ],
+        "severity": "Modérée à Sévère"
+      }
+    },
+    {
+      "id": 15,
+      "conversation": {
+        "human": "Mon pommier a des branches couvertes de mousse grise qui semblent sécher. Est-ce dangereux ?",
+        "assistant": "Bonjour ! D'après votre description, votre pommier semble être affecté par un lichen, ce qui n'est pas une maladie en soi, ainsi que par une possible infection par le chancre. Je vais vous expliquer ce qui se passe et comment gérer ce problème."
+      },
+      "disease_info": {
+        "name": "Chancre du pommier",
+        "scientific_name": "Neonectria ditissima",
+        "category": "Maladie fongique",
+        "affected_plants": [
+          "Pommier",
+          "Poirier"
+        ],
+        "symptoms": [
+          "Lésions brunes déprimées sur l'écorce",
+          "Craquelures concentriques sur les branches",
+          "Dessèchement progressif des branches atteintes",
+          "Présence possible de lichens (qui ne sont pas la cause du problème)",
+          "Fructifications rougeâtres du champignon par temps humide"
+        ],
+        "treatment_steps": [
+          "Tailler les branches malades 15-20 cm en dessous de la lésion",
+          "Désinfecter les outils entre chaque coupe",
+          "Protéger les plaies de taille avec un mastic cicatrisant",
+          "Brûler les parties coupées"
+        ],
+        "prevention": [
+          "Éviter les blessures de l'écorce",
+          "Tailler par temps sec",
+          "Traiter préventivement au cuivre après la taille",
+          "Choisir des variétés résistantes"
+        ],
+        "severity": "Sévère"
+      }
+    },
+    {
+      "id": 16,
+      "conversation": {
+        "human": "Mes plants de poivrons ont des feuilles déformées avec des nervures anormalement épaisses. Que se passe-t-il ?",
+        "assistant": "Bonjour ! D'après votre description de feuilles déformées avec des nervures épaisses, vos poivrons semblent être affectés par la mosaïque du concombre, une maladie virale courante. Je vais vous aider à comprendre et gérer ce problème."
+      },
+      "disease_info": {
+        "name": "Virus de la mosaïque du concombre",
+        "scientific_name": "Cucumber Mosaic Virus (CMV)",
+        "category": "Maladie virale",
+        "affected_plants": [
+          "Poivron",
+          "Tomate",
+          "Concombre",
+          "Nombreuses autres plantes potagères et ornementales"
+        ],
+        "symptoms": [
+          "Mosaïque jaune-vert sur les feuilles",
+          "Déformation et cloquage des feuilles",
+          "Nervures épaisses et anormalement visibles",
+          "Rabougrissement des plants",
+          "Fruits déformés et de petite taille"
+        ],
+        "treatment_steps": [
+          "Aucun traitement curatif pour les plants infectés",
+          "Arracher et détruire immédiatement les plants atteints",
+          "Contrôler les populations de pucerons (vecteurs du virus)",
+          "Désinfecter les outils de jardinage"
+        ],
+        "prevention": [
+          "Utiliser des semences et plants certifiés",
+          "Lutter contre les pucerons dès leur apparition",
+          "Éliminer les mauvaises herbes qui peuvent héberger le virus",
+          "Éviter de manipuler les plants de tabac avant les poivrons"
+        ],
+        "severity": "Très sévère"
+      }
+    },
+    {
+        "id": 17,
+        "conversation": {
+          "human": "Les feuilles de mes salades jaunissent et les racines semblent pourries. Qu'est-ce qui ne va pas ?",
+          "assistant": "Bonjour ! D'après votre description, vos salades sont probablement atteintes de la maladie de la fonte des semis ou pourriture du collet, causée par un champignon du sol. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Fonte des semis / Pourriture du collet",
+          "scientific_name": "Pythium spp. / Rhizoctonia solani",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Salade",
+            "Épinard",
+            "La plupart des jeunes plants potagers"
+          ],
+          "symptoms": [
+            "Jaunissement des feuilles",
+            "Pourriture des racines",
+            "Brunissement et étranglement du collet",
+            "Plants qui s'affaissent et meurent",
+            "Croissance ralentie"
+          ],
+          "treatment_steps": [
+            "Arracher et détruire les plants infectés",
+            "Éviter d'arroser excessivement",
+            "Appliquer un fongicide spécifique contre Pythium",
+            "Améliorer le drainage du sol"
+          ],
+          "prevention": [
+            "Utiliser un terreau stérilisé pour les semis",
+            "Éviter les semis trop denses",
+            "Maintenir une bonne circulation d'air",
+            "Éviter l'excès d'humidité"
+          ],
+          "severity": "Sévère"
+        }
+      },
+      {
+        "id": 18,
+        "conversation": {
+          "human": "Les fleurs de mon pommier brunissent et se fanent rapidement. Est-ce normal ?",
+          "assistant": "Bonjour ! D'après votre description, votre pommier est probablement atteint du feu bactérien, une maladie bactérienne très grave qui affecte les arbres fruitiers à pépins. Je vais vous aider à identifier et gérer cette situation préoccupante."
+        },
+        "disease_info": {
+          "name": "Feu bactérien",
+          "scientific_name": "Erwinia amylovora",
+          "category": "Maladie bactérienne",
+          "affected_plants": [
+            "Pommier",
+            "Poirier",
+            "Cognassier",
+            "Aubépine"
+          ],
+          "symptoms": [
+            "Brunissement et flétrissement rapide des fleurs",
+            "Extrémités des rameaux qui se recourbent en crosse",
+            "Feuilles et fruits qui noircissent mais restent attachés",
+            "Écorce qui se craquelle avec écoulement de gomme",
+            "Aspect brûlé des parties atteintes"
+          ],
+          "treatment_steps": [
+            "Tailler les branches infectées 30-40 cm en dessous des symptômes",
+            "Désinfecter les outils entre chaque coupe (eau de javel diluée)",
+            "Brûler immédiatement les parties coupées",
+            "Signaler aux autorités agricoles (maladie de quarantaine)"
+          ],
+          "prevention": [
+            "Éviter l'irrigation par aspersion",
+            "Modérer la fertilisation azotée",
+            "Utiliser des variétés résistantes",
+            "Appliquer des produits à base de cuivre à la floraison"
+          ],
+          "severity": "Très sévère"
+        }
+      },
+      {
+        "id": 19,
+        "conversation": {
+          "human": "Mes carottes ont de petites galeries dans les racines. Qu'est-ce qui les attaque ?",
+          "assistant": "Bonjour ! D'après votre description, vos carottes sont probablement attaquées par la mouche de la carotte, un ravageur fréquent des cultures de carottes. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Mouche de la carotte",
+          "scientific_name": "Psila rosae",
+          "category": "Ravageur",
+          "affected_plants": [
+            "Carotte",
+            "Céleri",
+            "Persil",
+            "Autres plantes de la famille des Apiacées"
+          ],
+          "symptoms": [
+            "Galeries sinueuses dans les racines",
+            "Jaunissement et rougissement du feuillage",
+            "Rabougrissement des plantes",
+            "Pourriture secondaire des racines",
+            "Entrées de galeries rouille-brunâtre"
+          ],
+          "treatment_steps": [
+            "Arracher et détruire les plantes fortement infestées",
+            "Utiliser des insecticides biologiques à base de pyrèthre",
+            "Poser des filets anti-insectes sur les cultures",
+            "Installer des pièges chromatiques jaunes"
+          ],
+          "prevention": [
+            "Décaler les dates de semis (éviter mai-juin et août-septembre)",
+            "Pratiquer la rotation des cultures",
+            "Cultiver des plantes répulsives comme l'oignon ou l'ail à proximité",
+            "Placer des voiles de protection dès le semis"
+          ],
+          "severity": "Modérée à Sévère"
+        }
+      },
+      {
+        "id": 20,
+        "conversation": {
+          "human": "Mes plants de tomates ont des taches brunes sur les fruits qui pourrissent rapidement. Que puis-je faire ?",
+          "assistant": "Bonjour ! D'après votre description, vos tomates sont probablement atteintes de la pourriture apicale, un trouble physiologique courant chez la tomate. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Pourriture apicale de la tomate",
+          "scientific_name": "Carence en calcium (trouble physiologique)",
+          "category": "Trouble physiologique",
+          "affected_plants": [
+            "Tomate",
+            "Poivron",
+            "Aubergine"
+          ],
+          "symptoms": [
+            "Taches brunes à noires sur l'extrémité des fruits",
+            "Zones nécrotiques sèches et enfoncées",
+            "Pourriture secondaire des fruits",
+            "Apparition principalement sur les premiers fruits",
+            "Aucun symptôme sur le feuillage"
+          ],
+          "treatment_steps": [
+            "Maintenir une humidité régulière du sol",
+            "Appliquer un engrais riche en calcium sur les feuilles",
+            "Enlever les fruits atteints",
+            "Pailler pour maintenir l'humidité du sol"
+          ],
+          "prevention": [
+            "Éviter les fluctuations d'humidité du sol",
+            "Incorporer de la chaux dans le sol avant plantation",
+            "Modérer la fertilisation azotée",
+            "Arroser régulièrement pendant la formation des fruits"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 21,
+        "conversation": {
+          "human": "Les feuilles de mon laurier-rose sont couvertes de petites bosses noires. Est-ce dangereux ?",
+          "assistant": "Bonjour ! D'après votre description, votre laurier-rose est probablement infesté par des cochenilles, des insectes parasites qui se fixent sur les plantes. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Infestation de cochenilles",
+          "scientific_name": "Famille des Coccidae / Pseudococcidae",
+          "category": "Ravageur",
+          "affected_plants": [
+            "Laurier-rose",
+            "Agrumes",
+            "Plantes d'intérieur",
+            "Nombreuses plantes ornementales"
+          ],
+          "symptoms": [
+            "Petites bosses ou écailles sur les tiges et feuilles",
+            "Substance collante (miellat) sur les feuilles",
+            "Développement de fumagine (moisissure noire)",
+            "Jaunissement et chute prématurée des feuilles",
+            "Affaiblissement général de la plante"
+          ],
+          "treatment_steps": [
+            "Frotter les zones infestées avec un chiffon imbibé d'alcool",
+            "Pulvériser de l'huile de neem ou un savon insecticide",
+            "Répéter le traitement tous les 7-10 jours",
+            "En cas d'infestation grave, utiliser un insecticide systémique"
+          ],
+          "prevention": [
+            "Inspecter régulièrement les plantes",
+            "Éviter le stress hydrique",
+            "Favoriser la présence de prédateurs naturels",
+            "Éviter l'excès d'azote dans la fertilisation"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 22,
+        "conversation": {
+          "human": "Mon olivier perd ses feuilles et certaines branches semblent sécher. Quel est le problème ?",
+          "assistant": "Bonjour ! D'après votre description, votre olivier pourrait être atteint de la verticilliose, une maladie fongique vasculaire grave. Je vais vous aider à identifier et gérer ce problème difficile."
+        },
+        "disease_info": {
+          "name": "Verticilliose de l'olivier",
+          "scientific_name": "Verticillium dahliae",
+          "category": "Maladie fongique vasculaire",
+          "affected_plants": [
+            "Olivier",
+            "Arbres fruitiers",
+            "Plantes ornementales ligneuses"
+          ],
+          "symptoms": [
+            "Dessèchement soudain de branches isolées",
+            "Feuilles qui se dessèchent mais restent attachées",
+            "Coloration brune des vaisseaux dans le bois",
+            "Défoliation progressive",
+            "Dépérissement lent de l'arbre"
+          ],
+          "treatment_steps": [
+            "Couper et brûler les branches très atteintes",
+            "Désinfecter les outils de taille",
+            "Améliorer le drainage du sol",
+            "Aucun traitement chimique efficace"
+          ],
+          "prevention": [
+            "Éviter de planter dans des sols contaminés",
+            "Choisir des variétés résistantes",
+            "Éviter les blessures des racines et du tronc",
+            "Maintenir les arbres en bonne santé"
+          ],
+          "severity": "Très sévère"
+        }
+      },
+      {
+        "id": 23,
+        "conversation": {
+          "human": "Les feuilles de mon buis sont dévorées par des chenilles vertes. Comment les éliminer ?",
+          "assistant": "Bonjour ! D'après votre description, votre buis est probablement attaqué par la pyrale du buis, un ravageur invasif qui cause d'importants dégâts. Je vais vous aider à identifier et combattre ce problème."
+        },
+        "disease_info": {
+          "name": "Pyrale du buis",
+          "scientific_name": "Cydalima perspectalis",
+          "category": "Ravageur",
+          "affected_plants": [
+            "Buis"
+          ],
+          "symptoms": [
+            "Présence de chenilles vert clair avec des bandes noires",
+            "Feuilles dévorées ne laissant que les nervures",
+            "Fils de soie entre les feuilles",
+            "Déjections vertes visibles",
+            "Dépérissement rapide de la plante"
+          ],
+          "treatment_steps": [
+            "Retirer manuellement les chenilles visibles",
+            "Traiter avec un insecticide biologique à base de Bacillus thuringiensis",
+            "Pulvériser un jet d'eau puissant pour déloger les chenilles",
+            "En cas d'infestation sévère, tailler les parties très atteintes"
+          ],
+          "prevention": [
+            "Inspecter régulièrement sous les feuilles",
+            "Installer des pièges à phéromones",
+            "Favoriser la présence de prédateurs naturels (mésanges)",
+            "Traiter préventivement dès l'observation des premiers papillons"
+          ],
+          "severity": "Très sévère"
+        }
+      },
+      {
+        "id": 24,
+        "conversation": {
+          "human": "Les tiges de mes rosiers sont couvertes de petits boutons rouges. Est-ce grave ?",
+          "assistant": "Bonjour ! D'après votre description, vos rosiers sont probablement atteints par la rouille du rosier, une maladie fongique assez commune. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Rouille du rosier",
+          "scientific_name": "Phragmidium mucronatum",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Rosier"
+          ],
+          "symptoms": [
+            "Pustules orangées à rougeâtres sur la face inférieure des feuilles",
+            "Taches jaunes sur la face supérieure des feuilles",
+            "Pustules noires en fin de saison",
+            "Défoliation prématurée",
+            "Petits boutons rouges sur les tiges"
+          ],
+          "treatment_steps": [
+            "Éliminer toutes les parties infectées",
+            "Appliquer un fongicide à base de soufre ou de triazole",
+            "Traiter régulièrement par temps humide",
+            "Assurer une bonne aération des plants"
+          ],
+          "prevention": [
+            "Éviter de mouiller le feuillage",
+            "Nettoyer les feuilles tombées autour des plants",
+            "Tailler pour favoriser la circulation d'air",
+            "Choisir des variétés résistantes"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 25,
+        "conversation": {
+          "human": "Les feuilles de mon citronnier jaunissent et tombent. Que faire ?",
+          "assistant": "Bonjour ! D'après votre description, votre citronnier pourrait souffrir de chlorose ferrique, un trouble nutritionnel courant chez les agrumes. Je vais vous aider à identifier et corriger ce problème."
+        },
+        "disease_info": {
+          "name": "Chlorose ferrique",
+          "scientific_name": "Carence en fer (trouble nutritionnel)",
+          "category": "Trouble nutritionnel",
+          "affected_plants": [
+            "Citronnier",
+            "Oranger",
+            "Autres agrumes",
+            "Plantes de terre acide"
+          ],
+          "symptoms": [
+            "Jaunissement des feuilles avec nervures qui restent vertes",
+            "Apparition d'abord sur les jeunes feuilles",
+            "Croissance ralentie",
+            "Chute prématurée des feuilles",
+            "Diminution de la fructification"
+          ],
+          "treatment_steps": [
+            "Appliquer un engrais chélaté de fer (EDDHA ou EDTA)",
+            "Acidifier le sol avec du sulfate de fer",
+            "Pulvériser une solution de fer sur le feuillage",
+            "Répéter le traitement selon les besoins"
+          ],
+          "prevention": [
+            "Contrôler régulièrement le pH du sol (idéalement 5,5-6,5)",
+            "Éviter l'excès d'eau",
+            "Utiliser un terreau spécial agrumes",
+            "Apporter régulièrement du compost ou du fumier bien décomposé"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 26,
+        "conversation": {
+          "human": "Les bulbes de mes tulipes pourrissent dans le sol. Pourquoi ?",
+          "assistant": "Bonjour ! D'après votre description, vos tulipes sont probablement affectées par la pourriture grise ou le fusarium, des maladies fongiques qui attaquent les bulbes. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Pourriture grise des bulbes",
+          "scientific_name": "Botrytis tulipae / Fusarium oxysporum",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Tulipe",
+            "Autres plantes à bulbes"
+          ],
+          "symptoms": [
+            "Pourriture molle des bulbes",
+            "Apparition de moisissures grises ou rosées",
+            "Feuilles jaunissantes et flétries",
+            "Taches brunes sur les feuilles et les fleurs",
+            "Non-émergence des plants"
+          ],
+          "treatment_steps": [
+            "Déterrer et détruire tous les bulbes infectés",
+            "Traiter les bulbes sains avec un fongicide avant stockage",
+            "Améliorer le drainage du sol",
+            "Ne pas planter de bulbes dans le même sol pendant plusieurs années"
+          ],
+          "prevention": [
+            "Utiliser des bulbes sains et certifiés",
+            "Planter dans un sol bien drainé",
+            "Éviter de blesser les bulbes lors de la plantation",
+            "Stocker les bulbes dans un endroit sec et aéré"
+          ],
+          "severity": "Sévère"
+        }
+      },
+      {
+        "id": 27,
+        "conversation": {
+          "human": "Les feuilles de mes poivrons sont parsemées de minuscules points blancs. Que se passe-t-il ?",
+          "assistant": "Bonjour ! D'après votre description, vos plants de poivrons sont probablement infestés par des acariens tétranyques, également appelés araignées rouges. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Tétranyques ou araignées rouges",
+          "scientific_name": "Tetranychus urticae",
+          "category": "Ravageur",
+          "affected_plants": [
+            "Poivron",
+            "Concombre",
+            "Tomate",
+            "Nombreuses plantes ornementales"
+          ],
+          "symptoms": [
+            "Petits points blancs ou jaunes sur les feuilles (piqûres)",
+            "Aspect décoloré et moucheté du feuillage",
+            "Fines toiles d'araignée sous les feuilles",
+            "Jaunissement et dessèchement des feuilles",
+            "Présence de minuscules acariens visibles à la loupe"
+          ],
+          "treatment_steps": [
+            "Pulvériser un jet d'eau puissant sous les feuilles",
+            "Appliquer de l'huile de neem ou un acaricide spécifique",
+            "Répéter le traitement tous les 3-5 jours",
+            "Augmenter l'humidité ambiante (brumisation)"
+          ],
+          "prevention": [
+            "Maintenir une bonne humidité de l'air",
+            "Inspecter régulièrement le dessous des feuilles",
+            "Éviter les conditions chaudes et sèches",
+            "Introduire des prédateurs naturels comme les acariens Phytoseiulus"
+          ],
+          "severity": "Modérée à Sévère"
+        }
+      },
+      {
+        "id": 28,
+        "conversation": {
+          "human": "Les tiges de mes tomates présentent des taches brunes allongées et se cassent facilement. Quelle est cette maladie ?",
+          "assistant": "Bonjour ! D'après votre description, vos plants de tomates sont probablement atteints de la maladie des taches noires des tiges ou anthracnose. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Anthracnose de la tige",
+          "scientific_name": "Colletotrichum coccodes",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Tomate",
+            "Poivron",
+            "Aubergine"
+          ],
+          "symptoms": [
+            "Taches brunes à noires allongées sur les tiges",
+            "Lésions enfoncées qui peuvent se fendre",
+            "Fragilisation des tiges qui cassent facilement",
+            "Flétrissement des parties supérieures",
+            "Petites taches noires sur les fruits"
+          ],
+          "treatment_steps": [
+            "Enlever et détruire les plants gravement affectés",
+            "Appliquer un fongicide à base de cuivre",
+            "Utiliser des tuteurs pour soutenir les plants",
+            "Éviter d'arroser les tiges"
+          ],
+          "prevention": [
+            "Rotation des cultures sur 3-4 ans",
+            "Utiliser des semences et plants certifiés",
+            "Améliorer le drainage du sol",
+            "Tuteurer les plants dès le début"
+          ],
+          "severity": "Modérée à Sévère"
+        }
+      },
+      {
+        "id": 29,
+        "conversation": {
+          "human": "Les feuilles de mon poirier sont couvertes de taches jaunes et oranges. Est-ce grave ?",
+          "assistant": "Bonjour ! D'après votre description, votre poirier est probablement atteint d'une maladie appelée le Marssonina ou tavelure tardive du poirier. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Marssonina (taches foliaires du poirier)",
+          "scientific_name": "Diplocarpon mespili",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Poirier",
+            "Cognassier"
+          ],
+          "symptoms": [
+            "Taches violacées puis brunes avec centre gris sur les feuilles",
+            "Taches qui deviennent confluentes",
+            "Jaunissement généralisé du feuillage",
+            "Défoliation prématurée",
+            "Taches sur les fruits dans les cas graves"
+          ],
+          "treatment_steps": [
+            "Appliquer un fongicide à base de cuivre ou de mancozèbe",
+            "Ramasser et détruire les feuilles tombées",
+            "Tailler pour améliorer la circulation d'air",
+            "Renouveler le traitement après les pluies"
+          ],
+          "prevention": [
+            "Traitement préventif au débourrement",
+            "Nettoyer soigneusement le verger en automne",
+            "Assurer une bonne aération des arbres",
+            "Éviter les excès d'azote"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 30,
+        "conversation": {
+          "human": "Les feuilles de mon potager sont dévorées par des petits escargots. Comment m'en débarrasser ?",
+          "assistant": "Bonjour ! D'après votre description, votre potager est envahi par des limaces ou petits escargots, des ravageurs courants du jardin. Je vais vous aider à identifier et gérer ce problème efficacement."
+        },
+        "disease_info": {
+          "name": "Infestation de limaces et escargots",
+          "scientific_name": "Arion spp., Deroceras spp., Helix spp.",
+          "category": "Ravageur",
+          "affected_plants": [
+            "Salades",
+            "Choux",
+            "Fraisiers",
+            "La plupart des légumes et plantes ornementales"
+          ],
+          "symptoms": [
+            "Grandes déchirures irrégulières sur les feuilles",
+            "Traces de mucus brillant sur les plantes et le sol",
+            "Fruits et légumes entamés ou troués",
+            "Jeunes plants dévorés à la base",
+            "Dégâts apparaissant principalement la nuit"
+          ],
+          "treatment_steps": [
+            "Installer des pièges à bière ou planches humides",
+            "Appliquer des granulés anti-limaces à base de phosphate ferrique",
+            "Épandre des cendres, coquilles d'œufs ou sciure autour des plantes",
+            "Ramasser manuellement les limaces le soir ou par temps humide"
+          ],
+          "prevention": [
+            "Maintenir le jardin propre et dégagé",
+            "Arroser le matin plutôt qu'en soirée",
+            "Favoriser la présence de prédateurs naturels (hérissons, oiseaux)",
+            "Mettre en place des barrières physiques (ruban de cuivre)"
+          ],
+          "severity": "Modérée"
+        }
+      },{
+        "id": 31,
+        "conversation": {
+            "human": "Les feuilles de mes courges jaunissent et se flétrissent rapidement. Quelle est la cause ?",
+            "assistant": "Bonjour ! D'après votre description, vos plants de courges semblent être affectés par la bactériose, une maladie bactérienne qui provoque le flétrissement des feuilles. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+            "name": "Bactériose des cucurbitacées",
+            "scientific_name": "Erwinia tracheiphila",
+            "category": "Maladie bactérienne",
+            "affected_plants": [
+                "Courge",
+                "Concombre",
+                "Melon",
+                "Courgette"
+            ],
+            "symptoms": [
+                "Flétrissement soudain des feuilles, souvent par temps chaud",
+                "Jaunissement des feuilles",
+                "Exsudat bactérien visqueux lorsqu'on coupe la tige",
+                "Progression rapide vers le dépérissement de la plante",
+                "Taches brunes sur les tiges dans certains cas"
+            ],
+            "treatment_steps": [
+                "Arracher et détruire les plants infectés",
+                "Désinfecter les outils après manipulation",
+                "Éliminer les insectes vecteurs comme les chrysomèles rayées",
+                "Éviter d'arroser directement les feuilles"
+            ],
+            "prevention": [
+                "Utiliser des filets anti-insectes pour protéger les plants",
+                "Planter des variétés résistantes",
+                "Pratiquer la rotation des cultures",
+                "Inspecter régulièrement les plants pour détecter les premiers signes"
+            ],
+            "severity": "Très sévère"
+        }
+    },
+    {
+        "id": 32,
+        "conversation": {
+            "human": "Les feuilles de mes aubergines sont trouées et dévorées. Que dois-je faire ?",
+            "assistant": "Bonjour ! D'après votre description, vos aubergines sont probablement attaquées par des doryphores, des insectes ravageurs qui se nourrissent des feuilles. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+            "name": "Infestation de doryphores",
+            "scientific_name": "Leptinotarsa decemlineata",
+            "category": "Ravageur",
+            "affected_plants": [
+                "Aubergine",
+                "Pomme de terre",
+                "Tomate",
+                "Poivron"
+            ],
+            "symptoms": [
+                "Feuilles trouées ou complètement dévorées",
+                "Présence de larves rouges ou orange sur les feuilles",
+                "Adultes rayés jaune et noir visibles sur les plants",
+                "Affaiblissement général de la plante",
+                "Réduction de la production de fruits"
+            ],
+            "treatment_steps": [
+                "Ramasser manuellement les adultes et les larves",
+                "Appliquer un insecticide biologique à base de spinosad",
+                "Introduire des prédateurs naturels comme les coccinelles",
+                "Éliminer les œufs sous les feuilles"
+            ],
+            "prevention": [
+                "Pratiquer la rotation des cultures",
+                "Planter des plantes répulsives comme le ricin ou la tanaisie",
+                "Installer des filets de protection",
+                "Inspecter régulièrement les plants pour détecter les premiers signes"
+            ],
+            "severity": "Modérée à Sévère"
+        }
+    },
+    {
+        "id": 33,
+        "conversation": {
+            "human": "Les feuilles de mes betteraves ont des taches brunes et se dessèchent. Quelle est cette maladie ?",
+            "assistant": "Bonjour ! D'après votre description, vos betteraves semblent être affectées par la cercosporiose, une maladie fongique courante. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+            "name": "Cercosporiose de la betterave",
+            "scientific_name": "Cercospora beticola",
+            "category": "Maladie fongique",
+            "affected_plants": [
+                "Betterave",
+                "Épinard",
+                "Blette"
+            ],
+            "symptoms": [
+                "Petites taches brunes à bords rouges sur les feuilles",
+                "Taches qui s'agrandissent et fusionnent",
+                "Jaunissement et dessèchement des feuilles",
+                "Réduction de la taille des racines",
+                "Affaiblissement général de la plante"
+            ],
+            "treatment_steps": [
+                "Enlever et détruire les feuilles infectées",
+                "Appliquer un fongicide homologué",
+                "Éviter d'arroser le feuillage",
+                "Améliorer la circulation d'air entre les plants"
+            ],
+            "prevention": [
+                "Pratiquer la rotation des cultures",
+                "Utiliser des variétés résistantes",
+                "Espacer les plants pour réduire l'humidité",
+                "Nettoyer les débris végétaux après la récolte"
+            ],
+            "severity": "Modérée"
+        }
+    },
+      {
+        "id": 34,
+        "conversation": {
+          "human": "Les feuilles de mon figuier sont couvertes de petites taches blanches poudreuses. Que faire ?",
+          "assistant": "Bonjour ! D'après votre description, votre figuier est probablement atteint d'oïdium, une maladie fongique courante. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Oïdium du figuier",
+          "scientific_name": "Erysiphe spp.",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Figuier",
+            "Autres arbres fruitiers"
+          ],
+          "symptoms": [
+            "Poudre blanche farineuse sur les feuilles",
+            "Déformation des jeunes feuilles",
+            "Croissance ralentie",
+            "Chute prématurée des feuilles",
+            "Fruits qui se développent mal"
+          ],
+          "treatment_steps": [
+            "Enlever les parties les plus touchées",
+            "Appliquer un fongicide à base de soufre",
+            "Pulvériser une solution de bicarbonate de soude",
+            "Traiter par temps sec, le matin ou en soirée"
+          ],
+          "prevention": [
+            "Assurer une bonne circulation d'air",
+            "Éviter l'excès d'azote dans la fertilisation",
+            "Installer l'arbre dans un endroit ensoleillé",
+            "Traiter préventivement avec du soufre au printemps"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 35,
+        "conversation": {
+          "human": "Les feuilles de mes choux sont criblées de petits trous. Qui sont les coupables ?",
+          "assistant": "Bonjour ! D'après votre description, vos choux sont probablement attaqués par des altises, de petits coléoptères sauteurs qui se nourrissent des feuilles. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Infestation d'altises",
+          "scientific_name": "Phyllotreta spp.",
+          "category": "Ravageur",
+          "affected_plants": [
+            "Chou",
+            "Radis",
+            "Roquette",
+            "Autres crucifères"
+          ],
+          "symptoms": [
+            "Multitude de petits trous dans les feuilles",
+            "Feuilles au aspect de dentelle",
+            "Présence de petits insectes noirs sauteurs",
+            "Dégâts plus importants sur les jeunes plants",
+            "Ralentissement de la croissance"
+          ],
+          "treatment_steps": [
+            "Pulvériser les plants avec un jet d'eau fort",
+            "Appliquer un insecticide à base de pyrèthre naturel",
+            "Saupoudrer les plants de terre de diatomée",
+            "Mettre en place des pièges chromatiques jaunes"
+          ],
+          "prevention": [
+            "Installer des voiles anti-insectes",
+            "Cultiver des plantes aromatiques répulsives à proximité",
+            "Pailler le sol pour limiter les sauts des altises",
+            "Arroser régulièrement pour maintenir le sol humide"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 36,
+        "conversation": {
+          "human": "Les tiges de mes tournesols se fendent à la base et les plantes se flétrissent. Quelle est cette maladie ?",
+          "assistant": "Bonjour ! D'après votre description, vos tournesols sont probablement atteints de pourriture du collet, une maladie fongique qui attaque la base des tiges. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Pourriture du collet du tournesol",
+          "scientific_name": "Sclerotinia sclerotiorum",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Tournesol",
+            "Haricot",
+            "Carotte",
+            "Nombreuses plantes potagères"
+          ],
+          "symptoms": [
+            "Base des tiges qui se fend et pourrit",
+            "Présence d'un feutrage blanc sur les tiges",
+            "Flétrissement soudain des plantes",
+            "Brunissement des tissus atteints",
+            "Présence de sclérotes noirs dans les tissus"
+          ],
+          "treatment_steps": [
+            "Arracher et détruire les plants atteints",
+            "Éviter de composter les résidus malades",
+            "Améliorer le drainage du sol",
+            "Appliquer un fongicide préventif sur les plants sains"
+          ],
+          "prevention": [
+            "Pratiquer une rotation longue (4-5 ans)",
+            "Éviter une densité trop élevée de plantation",
+            "Contrôler les mauvaises herbes sensibles",
+            "Favoriser l'aération du feuillage"
+          ],
+          "severity": "Sévère"
+        }
+      },
+      {
+        "id": 37,
+        "conversation": {
+          "human": "Les fleurs de mon hortensia brunissent avant de s'épanouir. Pourquoi ?",
+          "assistant": "Bonjour ! D'après votre description, votre hortensia est probablement touché par le botrytis ou pourriture grise, une maladie fongique qui affecte les fleurs. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Botrytis de l'hortensia",
+          "scientific_name": "Botrytis cinerea",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Hortensia",
+            "Rosier",
+            "Pivoines",
+            "Nombreuses plantes ornementales"
+          ],
+          "symptoms": [
+            "Boutons floraux qui brunissent et pourrissent",
+            "Développement d'une moisissure grise en conditions humides",
+            "Taches brunes sur les pétales",
+            "Fleurs qui ne s'ouvrent pas complètement",
+            "Progression rapide par temps humide"
+          ],
+          "treatment_steps": [
+            "Enlever toutes les parties infectées",
+            "Réduire l'humidité ambiante",
+            "Appliquer un fongicide spécifique anti-botrytis",
+            "Améliorer la circulation d'air autour des plants"
+          ],
+          "prevention": [
+            "Éviter l'arrosage par aspersion",
+            "Espacer les plants pour favoriser l'aération",
+            "Arroser à la base des plants le matin",
+            "Nettoyer les débris végétaux en automne"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 38,
+        "conversation": {
+          "human": "Les feuilles de mes pieds de vigne tournent au rouge prématurément. Est-ce inquiétant ?",
+          "assistant": "Bonjour ! D'après votre description, votre vigne est probablement atteinte du court-noué, une maladie virale transmise par des nématodes du sol. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Court-noué de la vigne",
+          "scientific_name": "Grapevine fanleaf virus (GFLV)",
+          "category": "Maladie virale",
+          "affected_plants": [
+            "Vigne"
+          ],
+          "symptoms": [
+            "Rougissement prématuré des feuilles",
+            "Déformation des feuilles en éventail",
+            "Entre-nœuds courts et parfois en zigzag",
+            "Jaunissement ou rougissement précoce des feuilles",
+            "Baisse progressive de la production"
+          ],
+          "treatment_steps": [
+            "Aucun traitement curatif n'existe",
+            "Arracher les pieds très atteints",
+            "Lutter contre les nématodes vecteurs",
+            "Assurer une bonne fertilisation pour renforcer les plants"
+          ],
+          "prevention": [
+            "Utiliser des plants certifiés sains",
+            "Pratiquer une jachère de plusieurs années avant replantation",
+            "Utiliser des porte-greffes résistants aux nématodes",
+            "Désinfecter les outils entre chaque plant"
+          ],
+          "severity": "Très sévère"
+        }
+      },
+      {
+        "id": 39,
+        "conversation": {
+          "human": "Mon basilic a des taches noires sur les feuilles et les tiges. Comment traiter ?",
+          "assistant": "Bonjour ! D'après votre description, votre basilic est probablement atteint de fusariose, une maladie fongique qui affecte particulièrement cette plante aromatique. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Fusariose du basilic",
+          "scientific_name": "Fusarium oxysporum f.sp. basilici",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Basilic"
+          ],
+          "symptoms": [
+            "Taches brunes à noires sur les tiges",
+            "Jaunissement des feuilles",
+            "Flétrissement soudain malgré un arrosage correct",
+            "Brunissement des vaisseaux dans la tige",
+            "Dépérissement progressif de la plante"
+          ],
+          "treatment_steps": [
+            "Éliminer immédiatement les plants infectés",
+            "Éviter d'arroser les feuilles",
+            "Améliorer la circulation d'air",
+            "Aucun traitement curatif efficace"
+          ],
+          "prevention": [
+            "Utiliser des semences et terreau désinfectés",
+            "Éviter les excès d'humidité",
+            "Planter dans un nouvel emplacement",
+            "Choisir des variétés résistantes"
+          ],
+          "severity": "Sévère"
+        }
+      },
+      {
+        "id": 40,
+        "conversation": {
+          "human": "Les feuilles de mon laurier-rose sont collantes et couvertes d'une substance noire. Que se passe-t-il ?",
+          "assistant": "Bonjour ! D'après votre description, votre laurier-rose est probablement infesté par des pucerons qui ont entraîné le développement de fumagine. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Fumagine sur laurier-rose",
+          "scientific_name": "Divers champignons saprophytes sur miellat d'insectes",
+          "category": "Maladie fongique secondaire",
+          "affected_plants": [
+            "Laurier-rose",
+            "Agrumes",
+            "Plantes ornementales"
+          ],
+          "symptoms": [
+            "Couche noire poudreuse sur les feuilles",
+            "Substance collante (miellat) sur les feuilles",
+            "Présence d'insectes comme pucerons ou cochenilles",
+            "Affaiblissement général de la plante",
+            "Photosynthèse réduite"
+          ],
+          "treatment_steps": [
+            "Éliminer les insectes producteurs de miellat",
+            "Laver les feuilles à l'eau savonneuse",
+            "Pulvériser un insecticide adapté contre les pucerons",
+            "Traiter avec un fongicide si nécessaire"
+          ],
+          "prevention": [
+            "Surveiller régulièrement les plants",
+            "Favoriser les prédateurs naturels des pucerons",
+            "Éviter les excès d'azote dans la fertilisation",
+            "Maintenir les plantes en bonne santé"
+          ],
+          "severity": "Légère à Modérée"
+        }
+      },
+      {
+        "id": 41,
+        "conversation": {
+          "human": "Les bourgeons de mon pêcher sont desséchés et ne s'ouvrent pas. Quelle est cette maladie ?",
+          "assistant": "Bonjour ! D'après votre description, votre pêcher est probablement atteint de moniliose des fleurs, une maladie fongique qui détruit les bourgeons floraux. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Moniliose des fleurs et rameaux",
+          "scientific_name": "Monilinia laxa",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Pêcher",
+            "Abricotier",
+            "Cerisier",
+            "Autres arbres fruitiers à noyau"
+          ],
+          "symptoms": [
+            "Flétrissement et dessèchement des fleurs",
+            "Bourgeons qui ne s'ouvrent pas",
+            "Brunissement des rameaux",
+            "Apparition de coussinets gris-brun (spores)",
+            "Dessèchement des jeunes rameaux"
+          ],
+          "treatment_steps": [
+            "Tailler et éliminer tous les rameaux atteints",
+            "Appliquer un fongicide à base de cuivre",
+            "Traiter avant et pendant la floraison",
+            "Assurer une bonne aération de l'arbre"
+          ],
+          "prevention": [
+            "Traiter préventivement au débourrement",
+            "Tailler pour aérer la couronne",
+            "Ramasser et détruire les fruits momifiés",
+            "Éviter les excès d'humidité"
+          ],
+          "severity": "Sévère"
+        }
+      },
+      {
+        "id": 42,
+        "conversation": {
+          "human": "Les tiges de mes géraniums sont molles et pourries à la base. Que faire ?",
+          "assistant": "Bonjour ! D'après votre description, vos géraniums souffrent probablement de pourriture grise ou botrytis, une maladie fongique qui attaque la base des tiges. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Pourriture grise du géranium",
+          "scientific_name": "Botrytis cinerea",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Géranium",
+            "Pélargonium",
+            "Nombreuses plantes ornementales"
+          ],
+          "symptoms": [
+            "Pourriture molle des tiges à la base",
+            "Développement d'une moisissure grise",
+            "Flétrissement des plants malgré un sol humide",
+            "Taches brunes sur les feuilles et les fleurs",
+            "Chute des feuilles"
+          ],
+          "treatment_steps": [
+            "Enlever toutes les parties infectées",
+            "Réduire l'arrosage et améliorer le drainage",
+            "Appliquer un fongicide spécifique",
+            "Augmenter la circulation d'air autour des plants"
+          ],
+          "prevention": [
+            "Éviter l'excès d'humidité",
+            "Espacer les plants",
+            "Arroser à la base des plants et non sur le feuillage",
+            "Enlever régulièrement les débris végétaux et feuilles mortes"
+          ],
+          "severity": "Modérée à Sévère"
+        }
+      },
+      {
+        "id": 43,
+        "conversation": {
+          "human": "Les aiguilles de mon pin sont jaunes et tombent en masse. Est-ce normal ?",
+          "assistant": "Bonjour ! D'après votre description, votre pin est probablement atteint de rouille du pin, une maladie fongique qui provoque le jaunissement et la chute des aiguilles. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Rouille du pin",
+          "scientific_name": "Cronartium spp.",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Pin",
+            "Épicéa",
+            "Autres conifères"
+          ],
+          "symptoms": [
+            "Jaunissement des aiguilles",
+            "Pustules orangées sur les aiguilles",
+            "Chute prématurée des aiguilles",
+            "Éclaircissement du houppier",
+            "Affaiblissement général de l'arbre"
+          ],
+          "treatment_steps": [
+            "Éliminer les aiguilles tombées au sol",
+            "Appliquer un fongicide à base de cuivre",
+            "Traiter au début du printemps",
+            "Tailler les branches fortement atteintes"
+          ],
+          "prevention": [
+            "Éliminer les plantes hôtes intermédiaires à proximité",
+            "Assurer une bonne circulation d'air",
+            "Éviter les plantations trop denses",
+            "Choisir des espèces résistantes"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 44,
+        "conversation": {
+          "human": "Les feuilles de mon melon s'enroulent et se déforment. Qu'est-ce qui cause cela ?",
+          "assistant": "Bonjour ! D'après votre description, vos plants de melon sont probablement infestés par des thrips, de petits insectes piqueurs-suceurs qui provoquent la déformation des feuilles. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Infestation de thrips",
+          "scientific_name": "Thrips tabaci, Frankliniella occidentalis",
+          "category": "Ravageur",
+          "affected_plants": [
+            "Melon",
+            "Concombre",
+            "Plantes ornementales",
+            "Nombreuses cultures"
+          ],
+          "symptoms": [
+            "Feuilles déformées et enroulées",
+            "Traces argentées sur les feuilles",
+            "Petits points noirs (déjections) sur les feuilles",
+            "Présence de minuscules insectes allongés",
+            "Ralentissement de la croissance"
+          ],
+          "treatment_steps": [
+            "Pulvériser une solution de savon noir",
+            "Appliquer un insecticide à base de spinosad",
+            "Installer des pièges chromatiques bleus",
+            "Introduire des acariens prédateurs"
+          ],
+          "prevention": [
+            "Surveiller régulièrement le dessous des feuilles",
+            "Installer des filets anti-insectes",
+            "Associer des plantes répulsives comme l'oignon",
+            "Maintenir une bonne humidité ambiante"
+          ],
+          "severity": "Modérée"
+        }
+      },
+      {
+        "id": 45,
+        "conversation": {
+          "human": "Les racines de mes carottes présentent des galles. Pourquoi ?",
+          "assistant": "Bonjour ! D'après votre description, vos carottes sont probablement affectées par le nématode à galles, un parasite microscopique qui attaque les racines. Je vais vous aider à identifier et gérer ce problème."
+        },
+        "disease_info": {
+          "name": "Nématodes à galles",
+          "scientific_name": "Meloidogyne spp.",
+          "category": "Ravageur microscopique",
+          "affected_plants": [
+            "Carotte",
+            "Tomate",
+            "Nombreux légumes et plantes ornementales"
+          ],
+          "symptoms": [
+            "Racines déformées avec des renflements (galles)",
+            "Croissance ralentie des plantes",
+            "Jaunissement du feuillage",
+            "Flétrissement par temps chaud malgré un arrosage correct",
+            "Rendement réduit"
+          ],
+          "treatment_steps": [
+            "Arracher et détruire les plantes infestées",
+            "Solariser le sol en été",
+            "Appliquer des nématicides biologiques",
+            "Améliorer la structure du sol avec du compost"
+          ],
+          "prevention": [
+            "Pratiquer une rotation longue (3-4 ans)",
+            "Cultiver des plantes répulsives comme les œillets d'Inde",
+            "Planter des variétés résistantes",
+            "Favoriser les micro-organismes antagonistes dans le sol"
+          ],
+          "severity": "Sévère"
+        }
+      },
+      {
+        "id": 46,
+        "conversation": {
+          "human": "Les feuilles de mon olivier sont déformées avec des excroissances. Quelle est cette maladie ?",
+          "assistant": "Bonjour ! D'après votre description, votre olivier est probablement infesté par la mouche de l'olive ou Dacus, un parasite qui provoque des excroissances sur les feuilles. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Mouche de l'olive",
+          "scientific_name": "Bactrocera oleae (syn. Dacus oleae)",
+          "category": "Ravageur",
+          "affected_plants": [
+            "Olivier"
+          ],
+          "symptoms": [
+            "Excroissances et déformations sur les feuilles",
+            "Trous de sortie visibles sur les olives",
+            "Galeries dans la pulpe des fruits",
+            "Chute prématurée des olives",
+            "Taches brunes sur les fruits"
+          ],
+          "treatment_steps": [
+            "Installer des pièges à phéromones",
+            "Appliquer un insecticide biologique à base de spinosad",
+            "Pulvériser de l'argile blanche (kaolinite)",
+            "Récolter précocement pour limiter les dégâts"
+          ],
+          "prevention": [
+            "Installer des pièges de détection dès juin",
+            "Favoriser les auxiliaires naturels",
+            "Maintenir une bonne aération des arbres",
+            "Ramasser et détruire les fruits tombés"
+          ],
+          "severity": "Modérée à Sévère"
+        }
+      },
+      {
+        "id": 47,
+        "conversation": {
+          "human": "Les bourgeons de mon forsythia sont couverts d'une substance blanche. Est-ce grave ?",
+          "assistant": "Bonjour ! D'après votre description, votre forsythia est probablement atteint par le blanc ou oïdium, une maladie fongique qui touche de nombreuses plantes ornementales. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Oïdium du forsythia",
+          "scientific_name": "Erysiphe syringae",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Forsythia",
+            "Lilas",
+            "Autres arbustes ornementaux"
+          ],
+          "symptoms": [
+            "Duvet blanc poudreux sur les bourgeons et jeunes feuilles",
+            "Croissance ralentie des jeunes pousses",
+            "Déformation des feuilles",
+            "Brunissement et dessèchement des zones atteintes",
+            "Chute prématurée des feuilles"
+          ],
+          "treatment_steps": [
+            "Tailler et éliminer les parties les plus atteintes",
+            "Appliquer un fongicide à base de soufre",
+            "Traiter par temps sec, tôt le matin ou en soirée",
+            "Pulvériser une solution de bicarbonate de soude"
+          ],
+          "prevention": [
+            "Espacer les plantations pour favoriser l'aération",
+            "Éviter l'excès d'azote dans les fertilisants",
+            "Arroser à la base des plants",
+            "Nettoyer les débris végétaux en automne"
+          ],
+          "severity": "Légère à Modérée"
+        }
+      },
+      {
+        "id": 48,
+        "conversation": {
+          "human": "Les feuilles de ma lavande sont jaunes et la plante dépérit. Que faire ?",
+          "assistant": "Bonjour ! D'après votre description, votre lavande souffre probablement de pourriture des racines due à un excès d'humidité, un problème courant pour cette plante méditerranéenne. Je vais vous aider à identifier et gérer cette situation."
+        },
+        "disease_info": {
+          "name": "Pourriture racinaire de la lavande",
+          "scientific_name": "Phytophthora spp. / Armillaria spp.",
+          "category": "Maladie fongique",
+          "affected_plants": [
+            "Lavande",
+            "Romarin",
+            "Autres plantes méditerranéennes"
+          ],
+          "symptoms": [
+            "Jaunissement progressif des feuilles",
+            "Brunissement du feuillage qui commence par la base",
+            "Pourriture des racines",
+            "Dépérissement général de la plante",
+            "Croissance ralentie"
+          ],
+          "treatment_steps": [
+            "Réduire immédiatement l'arrosage",
+            "Améliorer le drainage du sol",
+            "Couper les parties malades en taillant jusqu'au bois sain",
+            "Appliquer un fongicide spécifique"
+          ],
+          "prevention": [
+            "Planter en sol bien drainé, voire légèrement surélevé",
+            "Limiter les arrosages, surtout en hiver",
+            "Ajouter du sable ou du gravier au sol",
+            "Éviter le paillage organique qui retient l'humidité"
+          ],
+          "severity": "Modérée à Sévère"
+        }
+      },
+      {
+        "id": 49,
+        "conversation": {
+          "human": "Les feuilles de mes plantes aquatiques sont couvertes d'algues vertes. Comment les éliminer ?",
+          "assistant": "Bonjour ! D'après votre description, vos plantes aquatiques sont confrontées à une prolifération d'algues filamenteuses, un problème courant dans les bassins. Je vais vous aider à gérer cette situation."
+        },
+        "disease_info": {
+          "name": "Prolifération d'algues filamenteuses",
+          "scientific_name": "Diverses espèces (Spirogyra, Cladophora, etc.)",
+          "category": "Déséquilibre écologique",
+          "affected_plants": [
+            "Plantes aquatiques",
+            "Nénuphars",
+            "Lotus",
+            "Toute végétation de bassin"
+          ],
+          "symptoms": [
+            "Développement de masses vertes filamenteuses",
+            "Recouvrement de la surface de l'eau et des plantes",
+            "Diminution de la croissance des plantes aquatiques",
+            "Eau trouble et verdâtre",
+            "Baisse de l'oxygène disponible pour les poissons"
+          ],
+          "treatment_steps": [
+            "Retirer manuellement les algues avec un râteau fin",
+            "Introduire des plantes oxygénantes concurrentes",
+            "Installer une fontaine ou cascade pour oxygéner l'eau",
+            "Utiliser un algicide spécial bassin si nécessaire"
+          ],
+          "prevention": [
+            "Limiter l'exposition directe au soleil (ombrage partiel)",
+            "Éviter l'excès de nutriments (engrais, nourriture poissons)",
+            "Maintenir un équilibre entre plantes et poissons",
+            "Installer un système de filtration adapté"
+          ],
+          "severity": "Légère à Modérée"
+        }
+      },
+      {
+        "id": 50,
+        "conversation": {
+          "human": "Les écorces de mon érable présentent des fissures suintantes. Est-ce grave ?",
+          "assistant": "Bonjour ! D'après votre description, votre érable est probablement atteint de chancre bactérien, une infection qui provoque des écoulements de sève et des fissures dans l'écorce. Je vais vous aider à identifier et traiter ce problème."
+        },
+        "disease_info": {
+          "name": "Chancre bactérien de l'érable",
+          "scientific_name": "Pseudomonas syringae",
+          "category": "Maladie bactérienne",
+          "affected_plants": [
+            "Érable",
+            "Cerisier",
+            "Autres arbres d'ornement"
+          ],
+          "symptoms": [
+            "Fissures dans l'écorce avec écoulement de sève",
+            "Formation de chancres (zones d'écorce morte)",
+            "Brunissement des tissus sous l'écorce",
+            "Dépérissement des branches atteintes",
+            "Feuillage clairsemé"
+          ],
+          "treatment_steps": [
+            "Tailler les branches atteintes en période sèche",
+            "Désinfecter les outils entre chaque coupe",
+            "Protéger les plaies avec un mastic cicatrisant",
+            "Éviter l'arrosage du tronc et des branches"
+          ],
+          "prevention": [
+            "Éviter les blessures de l'écorce",
+            "Maintenir l'arbre en bonne santé par une fertilisation équilibrée",
+            "Tailler uniquement en période sèche",
+            "Choisir des espèces résistantes"
+          ],
+          "severity": "Modérée à Sévère"
+        }
+      }
+    
+
+]
+
+    

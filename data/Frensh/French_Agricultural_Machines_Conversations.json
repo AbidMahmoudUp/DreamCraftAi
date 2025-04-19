@@ -1,0 +1,2719 @@
+[
+  {
+    "id": 1,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour planter du romarin ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont parfaits pour planter du romarin, assurant un espacement régulier. Ils conviennent bien aux petites exploitations. Cultivez-vous du romarin ?"
+    },
+    "info": {
+      "topic": "Plantation de romarin",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au romarin",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le filtre hydraulique d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le filtre hydraulique toutes les 200 heures, nettoyez-le ou remplacez-le s’il est encrassé, et inspectez les fuites. Si la pression baisse, testez le filtre. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du filtre hydraulique du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage prévient l’encrassement",
+        "L’inspection des fuites assure les performances",
+        "Le remplacement maintient l’efficacité",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des betteraves ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les betteraves, garantissant un sol meuble et bien drainé. Plantez-vous des betteraves ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les betteraves",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "conversation": {
+      "human": "Bonjour, les drones peuvent-ils surveiller la santé des cultures ?",
+      "assistant": "Bonjour ! Oui, les drones équipés de capteurs multispectraux peuvent surveiller la santé des cultures, détectant les carences en nutriments. Ils sont coûteux mais précis. Vous inquiétez-vous de la santé des cultures ?"
+    },
+    "info": {
+      "topic": "Surveillance de la santé des cultures avec des drones",
+      "category": "Technologie agricole",
+      "details": [
+        "Détecte les carences en nutriments",
+        "Améliore la gestion des cultures",
+        "Nécessite une formation pour l’opérateur",
+        "Coût élevé"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des oranges ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette ou les secoueurs d’oranges récoltent les oranges sans endommager les arbres. Ils sont idéaux pour les grands vergers. Avez-vous un verger d’oranges ?"
+    },
+    "info": {
+      "topic": "Récolte d’oranges",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des oranges",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer du paillis dans des zones sèches ?",
+      "assistant": "Salut ! Choisissez un épandeur de paillis résistant à la poussière avec une transmission intégrale pour les zones sèches. Assurez-vous qu’il est durable et facile à nettoyer. Êtes-vous dans une région sèche ?"
+    },
+    "info": {
+      "topic": "Distribution de paillis dans des zones sèches",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le paillis uniformément",
+        "Les épandeurs résistants à la poussière sont durables",
+        "Nécessite un tracteur à quatre roues motrices",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter du céleri-rave ?",
+      "assistant": "Bonjour ! Oui, les charrues profondes et les machines de formation de billons préparent le sol pour le céleri-rave, assurant un sol meuble et bien drainé. Plantez-vous du céleri-rave ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour le céleri-rave",
+      "category": "Équipement de labour",
+      "details": [
+        "Ameublit le sol en profondeur",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur puissant",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de séparation d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de séparation toutes les 100 heures, nettoyez les grilles et lubrifiez les roulements. Si la séparation est mauvaise, ajustez la vitesse des secoueurs. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de séparation de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des grilles prévient les obstructions",
+        "La lubrification des roulements réduit l’usure",
+        "L’ajustement de la vitesse améliore l’efficacité",
+        "Un entretien régulier optimise la séparation"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du miel ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de miel mesurent l’humidité et la teneur en sucre, garantissant la qualité de la production. Produisez-vous du miel ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du miel",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure l’humidité et le sucre",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 900 $"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du compost dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de compost à haute capacité peut distribuer du compost dans de grands champs. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution de compost dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le compost uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter du thym ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont idéaux pour planter du thym, garantissant un espacement régulier des graines. Ils sont parfaits pour les petites exploitations. Cultivez-vous du thym ?"
+    },
+    "info": {
+      "topic": "Plantation de thym",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au thym",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "conversation": {
+      "human": "Bonjour, comment entretenir la transmission d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez la transmission toutes les 200 heures, inspectez le niveau d’huile et lubrifiez les engrenages. Si les changements de vitesse sont difficiles, testez l’huile. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien de la transmission du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Les vérifications d’huile assurent les performances",
+        "La lubrification des engrenages réduit l’usure",
+        "Le test de l’huile prévient les problèmes",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des carottes ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les carottes, assurant un sol meuble et bien drainé. Plantez-vous des carottes ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les carottes",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller les niveaux d’humidité du sol ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs d’humidité peuvent surveiller les niveaux d’humidité du sol, optimisant l’irrigation. Ils sont coûteux mais efficaces. Vous inquiétez-vous de l’humidité du sol ?"
+    },
+    "info": {
+      "topic": "Surveillance de l’humidité du sol avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Surveille les niveaux d’humidité avec précision",
+        "Optimise l’irrigation",
+        "Nécessite un investissement important",
+        "Convient aux grandes exploitations"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des citrons ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette récoltent les citrons sans endommager les arbres. Elles sont idéales pour les grands vergers. Avez-vous un verger de citrons ?"
+    },
+    "info": {
+      "topic": "Récolte de citrons",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des citrons",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des engrais liquides dans de grands champs ?",
+      "assistant": "Salut ! Choisissez un pulvérisateur d’engrais liquides à haute capacité avec des buses réglables pour de grands champs. Assurez-vous qu’il est résistant à la corrosion et facile à nettoyer. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais liquides dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Nécessite un pulvérisateur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des poireaux ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les poireaux, assurant un sol meuble et bien drainé. Plantez-vous des poireaux ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les poireaux",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de battage d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de battage toutes les 100 heures, nettoyez les barres et lubrifiez les roulements. Si le grain est endommagé, ajustez l’écart du cylindre. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de battage de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des barres prévient les obstructions",
+        "La lubrification des roulements réduit l’usure",
+        "L’ajustement de l’écart améliore la qualité du grain",
+        "Un entretien régulier optimise le battage"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du fromage ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de fromage mesurent l’humidité et la teneur en matières grasses, garantissant la qualité de la production. Produisez-vous du fromage ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du fromage",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure l’humidité et les matières grasses",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1200 $"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du sable dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de sable à haute capacité peut distribuer du sable dans de grands champs. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution de sable dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le sable uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter de la coriandre ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont idéaux pour planter de la coriandre, garantissant un espacement régulier des graines. Ils sont parfaits pour les petites exploitations. Cultivez-vous de la coriandre ?"
+    },
+    "info": {
+      "topic": "Plantation de coriandre",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient à la coriandre",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système de freinage d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le système de freinage toutes les 200 heures, inspectez les niveaux de liquide et lubrifiez les composants. Si le freinage est faible, testez les plaquettes. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de freinage du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Les vérifications de liquide assurent les performances",
+        "La lubrification des composants réduit l’usure",
+        "Le test des plaquettes maintient la puissance de freinage",
+        "Un entretien régulier améliore la sécurité"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des navets ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les navets, assurant un sol meuble et bien drainé. Plantez-vous des navets ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les navets",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller la santé du bétail ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs de santé peuvent surveiller les signes vitaux du bétail, détectant les problèmes tôt. Ils sont coûteux mais efficaces. Gérez-vous la santé du bétail ?"
+    },
+    "info": {
+      "topic": "Surveillance de la santé du bétail avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Surveille les signes vitaux avec précision",
+        "Détecte les problèmes de santé tôt",
+        "Nécessite un investissement important",
+        "Convient aux grandes exploitations"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des pommes ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette ou les secoueurs de pommes récoltent les pommes sans endommager les arbres. Elles sont idéales pour les grands vergers. Avez-vous un verger de pommes ?"
+    },
+    "info": {
+      "topic": "Récolte de pommes",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des pommes",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des pesticides dans de grands vergers ?",
+      "assistant": "Salut ! Choisissez un pulvérisateur de pesticides à haute capacité avec des buses réglables pour de grands vergers. Assurez-vous qu’il est résistant à la corrosion et compatible avec votre tracteur. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution de pesticides dans de grands vergers",
+      "category": "Équipement de lutte antiparasitaire",
+      "details": [
+        "Applique les pesticides avec précision",
+        "Nécessite un tracteur puissant",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des épinards ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les épinards, assurant un sol meuble et bien drainé. Plantez-vous des épinards ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les épinards",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de coupe d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de coupe toutes les 100 heures, affûtez les lames et inspectez l’usure. Si la coupe est inégale, ajustez l’alignement des lames. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de coupe de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "L’affûtage des lames améliore les performances",
+        "L’inspection de l’usure prévient les pannes",
+        "L’ajustement de l’alignement assure une coupe uniforme",
+        "Un entretien régulier améliore l’efficacité"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du yaourt ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de yaourt mesurent le pH et la teneur en bactéries, garantissant la qualité de la production. Produisez-vous du yaourt ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du yaourt",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure le pH et les bactéries",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1200 $"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer des engrais liquides dans de grands vergers ?",
+      "assistant": "Salut ! Oui, un tracteur avec un pulvérisateur d’engrais liquides à haute capacité peut distribuer des engrais dans de grands vergers. Assurez-vous qu’il a des buses réglables pour une couverture uniforme. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais liquides dans de grands vergers",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Nécessite un pulvérisateur à haute capacité",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  }, {
+    "id": 31,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour planter de la lavande ?",
+      "assistant": "Bonjour ! Oui, les planteuses de précision pour plants ou semoirs pour petites graines sont idéales pour la lavande, garantissant un espacement régulier. Elles conviennent aux exploitations moyennes. Cultivez-vous de la lavande ?"
+    },
+    "info": {
+      "topic": "Plantation de lavande",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les plants ou graines avec précision",
+        "Réduit le gaspillage",
+        "Convient à la lavande",
+        "L’entretien inclut le nettoyage des mécanismes de plantation"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "conversation": {
+      "human": "Bonjour, comment entretenir l’embrayage de la prise de force d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez l’embrayage de la prise de force toutes les 200 heures, lubrifiez les composants et inspectez l’usure. Si l’engagement est difficile, ajustez la tension. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien de l’embrayage de la prise de force du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "La lubrification réduit l’usure",
+        "L’inspection de l’usure prévient les pannes",
+        "L’ajustement de la tension assure un engagement fluide",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des radis ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les radis, assurant un sol meuble et bien drainé. Plantez-vous des radis ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les radis",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "conversation": {
+      "human": "Bonjour, les drones peuvent-ils surveiller les systèmes d’irrigation ?",
+      "assistant": "Bonjour ! Oui, les drones équipés de capteurs thermiques peuvent surveiller les systèmes d’irrigation, détectant les fuites ou les zones mal arrosées. Ils sont coûteux mais précis. Vérifiez-vous votre irrigation ?"
+    },
+    "info": {
+      "topic": "Surveillance des systèmes d’irrigation avec des drones",
+      "category": "Technologie agricole",
+      "details": [
+        "Détecte les fuites et les irrégularités",
+        "Optimise l’utilisation de l’eau",
+        "Nécessite une formation pour l’opérateur",
+        "Coût élevé"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des abricots ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette ou les secoueurs d’abricots récoltent les abricots sans endommager les arbres. Ils sont parfaits pour les grands vergers. Avez-vous un verger d’abricots ?"
+    },
+    "info": {
+      "topic": "Récolte d’abricots",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des abricots",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer du compost dans des zones humides ?",
+      "assistant": "Salut ! Choisissez un épandeur de compost résistant à l’humidité avec des composants en acier inoxydable pour les zones humides. Assurez-vous qu’il a une transmission intégrale et qu’il est facile à nettoyer. Êtes-vous dans une région humide ?"
+    },
+    "info": {
+      "topic": "Distribution de compost dans des zones humides",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le compost uniformément",
+        "Les épandeurs résistants à l’humidité sont durables",
+        "Nécessite un tracteur à quatre roues motrices",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des choux de Bruxelles ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les choux de Bruxelles, assurant un sol meuble et bien drainé. Plantez-vous des choux de Bruxelles ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les choux de Bruxelles",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "conversation": {
+      "human": "Salut, comment entretenir le réservoir à grains d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le réservoir à grains toutes les 100 heures, nettoyez les débris et inspectez la rouille. Si le déchargement est lent, testez le système de vis sans fin. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du réservoir à grains de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des débris prévient les obstructions",
+        "L’inspection de la rouille assure la durabilité",
+        "Le test de la vis sans fin maintient l’efficacité",
+        "Un entretien régulier améliore le déchargement"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du vin ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de vin mesurent l’alcool et l’acidité, garantissant la qualité de la production. Produisez-vous du vin ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du vin",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure l’alcool et l’acidité",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1300 $"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du fumier liquide dans de grands vergers ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de fumier liquide à haute capacité peut distribuer du fumier dans de grands vergers. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution de fumier liquide dans de grands vergers",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le fumier uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter du persil ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont idéaux pour planter du persil, garantissant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous du persil ?"
+    },
+    "info": {
+      "topic": "Plantation de persil",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au persil",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système de direction d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le système de direction toutes les 200 heures, lubrifiez les articulations et inspectez l’usure. Si la direction est lâche, ajustez les biellettes. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de direction du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "La lubrification des articulations assure une direction fluide",
+        "L’inspection de l’usure prévient les pannes",
+        "L’ajustement des biellettes améliore le contrôle",
+        "Un entretien régulier renforce la sécurité"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des oignons ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les oignons, assurant un sol meuble et bien drainé. Plantez-vous des oignons ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les oignons",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller la température des serres ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs de température peuvent surveiller les conditions des serres, optimisant la croissance des plantes. Ils sont coûteux mais efficaces. Gérez-vous une serre ?"
+    },
+    "info": {
+      "topic": "Surveillance de la température des serres avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Surveille la température avec précision",
+        "Optimise la croissance des plantes",
+        "Nécessite un investissement important",
+        "Convient aux grandes serres"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des cerises ?",
+      "assistant": "Bonjour ! Oui, les secoueurs de cerises ou les plateformes hydrauliques de cueillette récoltent les cerises sans endommager les arbres. Ils sont idéaux pour les grands vergers. Avez-vous un verger de cerises ?"
+    },
+    "info": {
+      "topic": "Récolte de cerises",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des cerises",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des pesticides dans des zones vallonnées ?",
+      "assistant": "Salut ! Choisissez un pulvérisateur de pesticides avec une transmission intégrale et des buses robustes pour les zones vallonnées. Assurez-vous qu’il est stable et facile à nettoyer. Êtes-vous dans une région vallonnée ?"
+    },
+    "info": {
+      "topic": "Distribution de pesticides dans des zones vallonnées",
+      "category": "Équipement de lutte antiparasitaire",
+      "details": [
+        "Applique les pesticides avec précision",
+        "Nécessite un tracteur à quatre roues motrices",
+        "Convient aux terrains accidentés",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter du chou-fleur ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour le chou-fleur, assurant un sol meuble et bien drainé. Plantez-vous du chou-fleur ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour le chou-fleur",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de nettoyage d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de nettoyage toutes les 100 heures, nettoyez les tamis et lubrifiez les ventilateurs. Si le grain est sale, ajustez la vitesse du ventilateur. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de nettoyage de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des tamis prévient les obstructions",
+        "La lubrification des ventilateurs réduit l’usure",
+        "L’ajustement de la vitesse améliore la qualité du grain",
+        "Un entretien régulier optimise le nettoyage"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité de l’huile d’olive ?",
+      "assistant": "Bonjour ! Oui, les analyseurs d’huile d’olive mesurent l’acidité et les peroxydes, garantissant la qualité de la production. Produisez-vous de l’huile d’olive ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité de l’huile d’olive",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure l’acidité et les peroxydes",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1300 $"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du paillis dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de paillis à haute capacité peut distribuer du paillis dans de grands champs. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution de paillis dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le paillis uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter de la menthe ?",
+      "assistant": "Bonjour ! Oui, les planteuses de précision pour boutures ou semoirs pour petites graines sont idéales pour la menthe, garantissant un espacement régulier. Elles conviennent aux petites exploitations. Cultivez-vous de la menthe ?"
+    },
+    "info": {
+      "topic": "Plantation de menthe",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les boutures ou graines avec précision",
+        "Réduit le gaspillage",
+        "Convient à la menthe",
+        "L’entretien inclut le nettoyage des mécanismes de plantation"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le radiateur d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le radiateur toutes les 100 heures, nettoyez les ailettes des débris et inspectez le niveau de liquide de refroidissement. En cas de surchauffe, testez le bouchon du radiateur. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du radiateur du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des ailettes prévient la surchauffe",
+        "L’inspection du liquide assure les performances",
+        "Le test du bouchon maintient la pression",
+        "Un entretien régulier prolonge la durée de vie du moteur"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des courgettes ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les courgettes, assurant un sol meuble et bien drainé. Plantez-vous des courgettes ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les courgettes",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller les niveaux de nutriments du sol ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs de nutriments peuvent surveiller les niveaux de nutriments du sol, optimisant la fertilisation. Ils sont coûteux mais efficaces. Vous inquiétez-vous des nutriments du sol ?"
+    },
+    "info": {
+      "topic": "Surveillance des nutriments du sol avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Surveille les nutriments avec précision",
+        "Optimise la fertilisation",
+        "Nécessite un investissement important",
+        "Convient aux grandes exploitations"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des pêches ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette récoltent les pêches sans endommager les arbres. Elles sont idéales pour les grands vergers. Avez-vous un verger de pêches ?"
+    },
+    "info": {
+      "topic": "Récolte de pêches",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des pêches",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des engrais liquides dans des zones sèches ?",
+      "assistant": "Salut ! Choisissez un pulvérisateur d’engrais liquides résistant à la poussière avec des buses durables pour les zones sèches. Assurez-vous qu’il est compatible avec votre tracteur et facile à nettoyer. Êtes-vous dans une région sèche ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais liquides dans des zones sèches",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Les pulvérisateurs résistants à la poussière sont durables",
+        "Convient aux zones sèches",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des artichauts ?",
+      "assistant": "Bonjour ! Oui, les charrues profondes et les machines de formation de billons préparent le sol pour les artichauts, assurant un sol meuble et bien drainé. Plantez-vous des artichauts ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les artichauts",
+      "category": "Équipement de labour",
+      "details": [
+        "Ameublit le sol en profondeur",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur puissant",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "conversation": {
+      "human": "Salut, comment entretenir le système d’échappement d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système d’échappement toutes les 200 heures, inspectez la rouille et nettoyez les dépôts de suie. Si l’échappement est obstrué, remplacez les composants endommagés. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système d’échappement de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "L’inspection de la rouille assure la durabilité",
+        "Le nettoyage de la suie maintient les performances",
+        "Le remplacement des composants prévient les obstructions",
+        "Un entretien régulier améliore l’efficacité"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du cidre ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de cidre mesurent le sucre et l’alcool, garantissant la qualité de la production. Produisez-vous du cidre ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du cidre",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure le sucre et l’alcool",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1100 $"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du sable dans de grands vergers ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de sable à haute capacité peut distribuer du sable dans de grands vergers. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution de sable dans de grands vergers",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le sable uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter de l’estragon ?",
+      "assistant": "Bonjour ! Oui, les planteuses de précision pour boutures sont idéales pour l’estragon, garantissant un espacement régulier. Elles conviennent aux petites exploitations. Cultivez-vous de l’estragon ?"
+    },
+    "info": {
+      "topic": "Plantation d’estragon",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les boutures avec précision",
+        "Réduit le gaspillage",
+        "Convient à l’estragon",
+        "L’entretien inclut le nettoyage des mécanismes de plantation"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "conversation": {
+      "human": "Bonjour, comment entretenir la suspension d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez la suspension toutes les 200 heures, lubrifiez les articulations et inspectez les amortisseurs pour les fuites. Si la conduite est inconfortable, testez les ressorts. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien de la suspension du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "La lubrification des articulations assure une conduite fluide",
+        "L’inspection des amortisseurs prévient les pannes",
+        "Le test des ressorts maintient le confort",
+        "Un entretien régulier améliore la qualité de conduite"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des poivrons ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les poivrons, assurant un sol meuble et bien drainé. Plantez-vous des poivrons ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les poivrons",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller les stades de croissance des cultures ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs d’imagerie peuvent surveiller les stades de croissance des cultures, aidant à planifier la récolte. Ils sont coûteux mais efficaces. Suivez-vous la croissance des cultures ?"
+    },
+    "info": {
+      "topic": "Surveillance des stades de croissance des cultures avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Surveille les stades de croissance avec précision",
+        "Aide à la planification de la récolte",
+        "Nécessite un investissement important",
+        "Convient aux grandes exploitations"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des prunes ?",
+      "assistant": "Bonjour ! Oui, les secoueurs de prunes ou les plateformes hydrauliques de cueillette récoltent les prunes sans endommager les arbres. Ils sont idéaux pour les grands vergers. Avez-vous un verger de prunes ?"
+    },
+    "info": {
+      "topic": "Récolte de prunes",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des prunes",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer du compost dans de grands vergers ?",
+      "assistant": "Salut ! Choisissez un épandeur de compost à haute capacité avec des réglages ajustables pour de grands vergers. Assurez-vous qu’il est compatible avec votre tracteur et facile à nettoyer. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution de compost dans de grands vergers",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le compost uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des aubergines ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les aubergines, assurant un sol meuble et bien drainé. Plantez-vous des aubergines ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les aubergines",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "conversation": {
+      "human": "Salut, comment entretenir le système hydraulique d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système hydraulique toutes les 100 heures, inspectez les fuites et lubrifiez les cylindres. Si le système est lent, testez la pression de la pompe. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système hydraulique de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "L’inspection des fuites prévient les pannes",
+        "La lubrification des cylindres assure les performances",
+        "Le test de pression maintient l’efficacité",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité de la bière ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de bière mesurent l’alcool et la carbonatation, garantissant la qualité de la production. Produisez-vous de la bière ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité de la bière",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure l’alcool et la carbonatation",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1300 $"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer des engrais liquides dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un pulvérisateur d’engrais liquides à haute capacité peut distribuer des engrais dans de grands champs. Assurez-vous qu’il a des buses réglables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais liquides dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Nécessite un pulvérisateur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },  {
+    "id": 71,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour planter du basilic ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont idéaux pour planter du basilic, garantissant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous du basilic ?"
+    },
+    "info": {
+      "topic": "Plantation de basilic",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au basilic",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "conversation": {
+      "human": "Bonjour, comment entretenir la pompe à carburant d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez la pompe à carburant toutes les 200 heures, nettoyez le filtre et inspectez les fuites. Si la pression est faible, testez la pompe. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien de la pompe à carburant du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage du filtre prévient les obstructions",
+        "L’inspection des fuites assure les performances",
+        "Le test de la pompe maintient l’efficacité",
+        "Un entretien régulier améliore la fiabilité"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des concombres ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les concombres, assurant un sol meuble et bien drainé. Plantez-vous des concombres ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les concombres",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "conversation": {
+      "human": "Bonjour, les drones peuvent-ils surveiller les infestations de nuisibles ?",
+      "assistant": "Bonjour ! Oui, les drones équipés de capteurs d’imagerie peuvent surveiller les infestations de nuisibles, détectant les zones affectées. Ils sont coûteux mais précis. Vous inquiétez-vous des nuisibles ?"
+    },
+    "info": {
+      "topic": "Surveillance des infestations de nuisibles avec des drones",
+      "category": "Technologie agricole",
+      "details": [
+        "Détecte les zones infestées avec précision",
+        "Réduit les pertes de cultures",
+        "Nécessite une formation pour l’opérateur",
+        "Coût élevé"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des amandes ?",
+      "assistant": "Bonjour ! Oui, les secoueurs d’amandes ou les plateformes hydrauliques de cueillette récoltent les amandes sans endommager les arbres. Ils sont parfaits pour les grands vergers. Avez-vous un verger d’amandes ?"
+    },
+    "info": {
+      "topic": "Récolte d’amandes",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des amandes",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des engrais granulés dans de grands champs ?",
+      "assistant": "Salut ! Choisissez un épandeur d’engrais granulés à haute capacité avec des réglages ajustables pour de grands champs. Assurez-vous qu’il est robuste et facile à nettoyer. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais granulés dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des tomates ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les tomates, assurant un sol meuble et bien drainé. Plantez-vous des tomates ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les tomates",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de levage hydraulique d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de levage hydraulique toutes les 100 heures, inspectez les fuites et lubrifiez les cylindres. Si le levage est lent, testez la pression de la pompe. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de levage hydraulique de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "L’inspection des fuites prévient les pannes",
+        "La lubrification des cylindres assure les performances",
+        "Le test de pression maintient l’efficacité",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du sirop d’érable ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de sirop d’érable mesurent la teneur en sucre et la clarté, garantissant la qualité de la production. Produisez-vous du sirop d’érable ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du sirop d’érable",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure le sucre et la clarté",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1000 $"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du compost dans de grands vergers ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de compost à haute capacité peut distribuer du compost dans de grands vergers. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution de compost dans de grands vergers",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le compost uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter de la sauge ?",
+      "assistant": "Bonjour ! Oui, les planteuses de précision pour boutures ou semoirs pour petites graines sont idéales pour la sauge, garantissant un espacement régulier. Elles conviennent aux petites exploitations. Cultivez-vous de la sauge ?"
+    },
+    "info": {
+      "topic": "Plantation de sauge",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les boutures ou graines avec précision",
+        "Réduit le gaspillage",
+        "Convient à la sauge",
+        "L’entretien inclut le nettoyage des mécanismes de plantation"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "conversation": {
+      "human": "Bonjour, comment entretenir l’alternateur d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez l’alternateur toutes les 200 heures, nettoyez les connexions et inspectez les courroies. Si la batterie ne charge pas, testez la sortie de l’alternateur. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien de l’alternateur du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des connexions prévient les pannes",
+        "L’inspection des courroies assure les performances",
+        "Le test de la sortie maintient la charge",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des haricots ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les haricots, assurant un sol meuble et bien drainé. Plantez-vous des haricots ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les haricots",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller la qualité de l’air dans les serres ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs de CO2 et d’humidité peuvent surveiller la qualité de l’air dans les serres, optimisant les conditions de croissance. Ils sont coûteux mais efficaces. Gérez-vous une serre ?"
+    },
+    "info": {
+      "topic": "Surveillance de la qualité de l’air dans les serres avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Surveille le CO2 et l’humidité avec précision",
+        "Optimise les conditions de croissance",
+        "Nécessite un investissement important",
+        "Convient aux grandes serres"
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des noix ?",
+      "assistant": "Bonjour ! Oui, les secoueurs de noix ou les plateformes hydrauliques de cueillette récoltent les noix sans endommager les arbres. Ils sont idéaux pour les grands vergers. Avez-vous un verger de noix ?"
+    },
+    "info": {
+      "topic": "Récolte de noix",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des noix",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer du fumier liquide dans des zones vallonnées ?",
+      "assistant": "Salut ! Choisissez un épandeur de fumier liquide avec une transmission intégrale et une structure stable pour les zones vallonnées. Assurez-vous qu’il est résistant à la corrosion et facile à nettoyer. Êtes-vous dans une région vallonnée ?"
+    },
+    "info": {
+      "topic": "Distribution de fumier liquide dans des zones vallonnées",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le fumier uniformément",
+        "Nécessite un épandeur stable",
+        "Convient aux terrains accidentés",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des pois ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les pois, assurant un sol meuble et bien drainé. Plantez-vous des pois ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les pois",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de refroidissement d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de refroidissement toutes les 100 heures, nettoyez les ailettes du radiateur et inspectez le liquide de refroidissement. Si la température est élevée, testez le thermostat. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de refroidissement de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des ailettes prévient la surchauffe",
+        "L’inspection du liquide assure les performances",
+        "Le test du thermostat maintient la température",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du beurre ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de beurre mesurent la teneur en matière grasse et l’humidité, garantissant la qualité de la production. Produisez-vous du beurre ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du beurre",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure la matière grasse et l’humidité",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1100 $"
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer des pesticides dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un pulvérisateur de pesticides à haute capacité peut distribuer des pesticides dans de grands champs. Assurez-vous qu’il a des buses réglables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution de pesticides dans de grands champs",
+      "category": "Équipement de lutte antiparasitaire",
+      "details": [
+        "Applique les pesticides avec précision",
+        "Nécessite un pulvérisateur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter de l’origan ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont idéaux pour planter de l’origan, garantissant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous de l’origan ?"
+    },
+    "info": {
+      "topic": "Plantation d’origan",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient à l’origan",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système d’injection d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le système d’injection toutes les 200 heures, nettoyez les injecteurs avec un solvant et inspectez les obstructions. Si les performances diminuent, testez la pression d’injection. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système d’injection du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des injecteurs prévient les obstructions",
+        "L’inspection des obstructions assure les performances",
+        "Le test de pression maintient l’efficacité",
+        "Un entretien régulier améliore l’économie de carburant"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des lentilles ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les lentilles, assurant un sol meuble et bien drainé. Plantez-vous des lentilles ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les lentilles",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller l’érosion du sol ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs topographiques peuvent surveiller l’érosion du sol, identifiant les zones vulnérables. Ils sont coûteux mais efficaces. Vous inquiétez-vous de l’érosion ?"
+    },
+    "info": {
+      "topic": "Surveillance de l’érosion du sol avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Identifie les zones sujettes à l’érosion",
+        "Aide à la conservation du sol",
+        "Nécessite un investissement important",
+        "Convient aux grandes exploitations"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des olives ?",
+      "assistant": "Bonjour ! Oui, les secoueurs d’olives ou les plateformes hydrauliques de cueillette récoltent les olives sans endommager les arbres. Ils sont idéaux pour les grands vergers. Avez-vous un verger d’olives ?"
+    },
+    "info": {
+      "topic": "Récolte d’olives",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des olives",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer du paillis dans des zones humides ?",
+      "assistant": "Salut ! Choisissez un épandeur de paillis résistant à l’humidité avec des composants en acier inoxydable pour les zones humides. Assurez-vous qu’il a une transmission intégrale et qu’il est facile à nettoyer. Êtes-vous dans une région humide ?"
+    },
+    "info": {
+      "topic": "Distribution de paillis dans des zones humides",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le paillis uniformément",
+        "Les épandeurs résistants à l’humidité sont durables",
+        "Nécessite un tracteur à quatre roues motrices",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des brocolis ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les brocolis, assurant un sol meuble et bien drainé. Plantez-vous des brocolis ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les brocolis",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de transmission d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de transmission toutes les 200 heures, inspectez les niveaux d’huile et lubrifiez les engrenages. Si les changements de vitesse sont difficiles, testez l’huile. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de transmission de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Les vérifications d’huile assurent les performances",
+        "La lubrification des engrenages réduit l’usure",
+        "Le test de l’huile prévient les problèmes",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du kombucha ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de kombucha mesurent le pH et la teneur en sucre, garantissant la qualité de la production. Produisez-vous du kombucha ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du kombucha",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure le pH et le sucre",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1100 $"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer des engrais liquides dans de grands vergers ?",
+      "assistant": "Salut ! Oui, un tracteur avec un pulvérisateur d’engrais liquides à haute capacité peut distribuer des engrais dans de grands vergers. Assurez-vous qu’il a des buses réglables pour une couverture uniforme. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais liquides dans de grands vergers",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Nécessite un pulvérisateur à haute capacité",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter du cresson ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont idéaux pour planter du cresson, garantissant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous du cresson ?"
+    },
+    "info": {
+      "topic": "Plantation de cresson",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au cresson",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système de climatisation d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le système de climatisation toutes les 200 heures, nettoyez les filtres et inspectez le niveau de réfrigérant. Si le refroidissement est faible, testez le compresseur. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de climatisation du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des filtres assure les performances",
+        "L’inspection du réfrigérant prévient les pannes",
+        "Le test du compresseur maintient le refroidissement",
+        "Un entretien régulier améliore le confort"
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des patates douces ?",
+      "assistant": "Salut ! Oui, les charrues profondes et les machines de formation de billons préparent le sol pour les patates douces, assurant un sol meuble et bien drainé. Plantez-vous des patates douces ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les patates douces",
+      "category": "Équipement de labour",
+      "details": [
+        "Ameublit le sol en profondeur",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur puissant",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller la pollinisation des cultures ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs d’imagerie peuvent surveiller la pollinisation des cultures, suivant l’activité des pollinisateurs. Ils sont coûteux mais efficaces. Étudiez-vous la pollinisation ?"
+    },
+    "info": {
+      "topic": "Surveillance de la pollinisation des cultures avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Suit l’activité des pollinisateurs avec précision",
+        "Améliore le rendement des cultures",
+        "Nécessite un investissement important",
+        "Convient aux grandes exploitations"
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des raisins ?",
+      "assistant": "Bonjour ! Oui, les vendangeuses mécaniques ou les plateformes hydrauliques de cueillette récoltent les raisins sans endommager les vignes. Elles sont idéales pour les grands vignobles. Avez-vous un vignoble ?"
+    },
+    "info": {
+      "topic": "Récolte de raisins",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des raisins",
+        "Protège les vignes",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des engrais granulés dans des zones sèches ?",
+      "assistant": "Salut ! Choisissez un épandeur d’engrais granulés résistant à la poussière avec des réglages ajustables pour les zones sèches. Assurez-vous qu’il est compatible avec votre tracteur et facile à nettoyer. Êtes-vous dans une région sèche ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais granulés dans des zones sèches",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Les épandeurs résistants à la poussière sont durables",
+        "Convient aux zones sèches",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des choux ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les choux, assurant un sol meuble et bien drainé. Plantez-vous des choux ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les choux",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de direction d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de direction toutes les 200 heures, lubrifiez les articulations et inspectez l’usure des composants. Si la direction est difficile, ajustez les biellettes. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de direction de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "La lubrification des articulations assure une direction fluide",
+        "L’inspection de l’usure prévient les pannes",
+        "L’ajustement des biellettes améliore le contrôle",
+        "Un entretien régulier renforce la sécurité"
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du vinaigre ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de vinaigre mesurent l’acidité et la pureté, garantissant la qualité de la production. Produisez-vous du vinaigre ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du vinaigre",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure l’acidité et la pureté",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1000 $"
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du sable dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de sable à haute capacité peut distribuer du sable dans de grands champs. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution de sable dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le sable uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },  {
+    "id": 111,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour planter du fenugrec ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont parfaits pour planter du fenugrec, assurant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous du fenugrec ?"
+    },
+    "info": {
+      "topic": "Plantation de fenugrec",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au fenugrec",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système de batterie d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez la batterie toutes les 100 heures, nettoyez les bornes et inspectez le niveau d’électrolyte. Si le démarrage est faible, testez la charge de la batterie. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de batterie du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des bornes prévient la corrosion",
+        "L’inspection de l’électrolyte assure les performances",
+        "Le test de charge maintient la fiabilité",
+        "Un entretien régulier prolonge la durée de vie de la batterie"
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des panais ?",
+      "assistant": "Salut ! Oui, les charrues profondes et les machines de formation de billons préparent le sol pour les panais, assurant un sol meuble et bien drainé. Plantez-vous des panais ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les panais",
+      "category": "Équipement de labour",
+      "details": [
+        "Ameublit le sol en profondeur",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur puissant",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "conversation": {
+      "human": "Bonjour, les drones peuvent-ils surveiller la qualité de l’eau d’irrigation ?",
+      "assistant": "Bonjour ! Oui, les drones équipés de capteurs chimiques peuvent surveiller la qualité de l’eau d’irrigation, détectant les contaminants. Ils sont coûteux mais précis. Vérifiez-vous votre eau d’irrigation ?"
+    },
+    "info": {
+      "topic": "Surveillance de la qualité de l’eau d’irrigation avec des drones",
+      "category": "Technologie agricole",
+      "details": [
+        "Détecte les contaminants avec précision",
+        "Protège la santé des cultures",
+        "Nécessite une formation pour l’opérateur",
+        "Coût élevé"
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des figues ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette récoltent les figues sans endommager les arbres. Elles sont idéales pour les grands vergers. Avez-vous un verger de figues ?"
+    },
+    "info": {
+      "topic": "Récolte de figues",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des figues",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des pesticides dans des zones humides ?",
+      "assistant": "Salut ! Choisissez un pulvérisateur de pesticides résistant à l’humidité avec des buses robustes pour les zones humides. Assurez-vous qu’il a une transmission intégrale et qu’il est facile à nettoyer. Êtes-vous dans une région humide ?"
+    },
+    "info": {
+      "topic": "Distribution de pesticides dans des zones humides",
+      "category": "Équipement de lutte antiparasitaire",
+      "details": [
+        "Applique les pesticides avec précision",
+        "Les pulvérisateurs résistants à l’humidité sont durables",
+        "Nécessite un tracteur à quatre roues motrices",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des asperges ?",
+      "assistant": "Bonjour ! Oui, les charrues profondes et les machines de formation de billons préparent le sol pour les asperges, assurant un sol meuble et bien drainé. Plantez-vous des asperges ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les asperges",
+      "category": "Équipement de labour",
+      "details": [
+        "Ameublit le sol en profondeur",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur puissant",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "conversation": {
+      "human": "Salut, comment entretenir le système d’alimentation en carburant d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système d’alimentation toutes les 100 heures, nettoyez les filtres et inspectez les conduites pour les fuites. Si le moteur cale, testez la pompe à carburant. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système d’alimentation en carburant de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des filtres prévient les obstructions",
+        "L’inspection des conduites assure les performances",
+        "Le test de la pompe maintient la fiabilité",
+        "Un entretien régulier améliore l’efficacité"
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du lait ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de lait mesurent la teneur en matières grasses et en protéines, garantissant la qualité de la production. Produisez-vous du lait ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du lait",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure les matières grasses et les protéines",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1200 $"
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du fumier liquide dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de fumier liquide à haute capacité peut distribuer du fumier dans de grands champs. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution de fumier liquide dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le fumier uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter de l’aneth ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont idéaux pour planter de l’aneth, garantissant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous de l’aneth ?"
+    },
+    "info": {
+      "topic": "Plantation d’aneth",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient à l’aneth",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 122,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système de lubrification d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le système de lubrification toutes les 200 heures, inspectez les niveaux d’huile et nettoyez les filtres. Si l’huile est sale, remplacez-la. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de lubrification du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Les vérifications d’huile assurent les performances",
+        "Le nettoyage des filtres prévient les obstructions",
+        "Le remplacement de l’huile maintient l’efficacité",
+        "Un entretien régulier prolonge la durée de vie du moteur"
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des betteraves rouges ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les betteraves rouges, assurant un sol meuble et bien drainé. Plantez-vous des betteraves rouges ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les betteraves rouges",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller la santé du sol ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs de nutriments et de pH peuvent surveiller la santé du sol, optimisant la fertilisation. Ils sont coûteux mais efficaces. Vous inquiétez-vous de la santé du sol ?"
+    },
+    "info": {
+      "topic": "Surveillance de la santé du sol avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure les nutriments et le pH avec précision",
+        "Optimise la fertilisation",
+        "Nécessite un investissement important",
+        "Convient aux grandes exploitations"
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des grenades ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette récoltent les grenades sans endommager les arbres. Elles sont idéales pour les grands vergers. Avez-vous un verger de grenades ?"
+    },
+    "info": {
+      "topic": "Récolte de grenades",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des grenades",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer du compost dans des zones sèches ?",
+      "assistant": "Salut ! Choisissez un épandeur de compost résistant à la poussière avec une transmission intégrale pour les zones sèches. Assurez-vous qu’il est robuste et facile à nettoyer. Êtes-vous dans une région sèche ?"
+    },
+    "info": {
+      "topic": "Distribution de compost dans des zones sèches",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le compost uniformément",
+        "Les épandeurs résistants à la poussière sont durables",
+        "Nécessite un tracteur à quatre roues motrices",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des céleris ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les céleris, assurant un sol meuble et bien drainé. Plantez-vous des céleris ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les céleris",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de suspension d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de suspension toutes les 200 heures, lubrifiez les articulations et inspectez les amortisseurs pour les fuites. Si la conduite est instable, testez les ressorts. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de suspension de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "La lubrification des articulations assure une conduite fluide",
+        "L’inspection des amortisseurs prévient les pannes",
+        "Le test des ressorts maintient la stabilité",
+        "Un entretien régulier améliore la qualité de conduite"
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du miel ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de miel mesurent l’humidité et la teneur en sucre, garantissant la qualité de la production. Produisez-vous du miel ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du miel",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure l’humidité et le sucre",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 900 $"
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer des engrais granulés dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur d’engrais granulés à haute capacité peut distribuer des engrais dans de grands champs. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais granulés dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter du cerfeuil ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont parfaits pour planter du cerfeuil, assurant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous du cerfeuil ?"
+    },
+    "info": {
+      "topic": "Plantation de cerfeuil",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au cerfeuil",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système d’échappement d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le système d’échappement toutes les 200 heures, inspectez la rouille et nettoyez les dépôts de suie. Si l’échappement est obstrué, remplacez les composants endommagés. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système d’échappement du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "L’inspection de la rouille assure la durabilité",
+        "Le nettoyage de la suie maintient les performances",
+        "Le remplacement des composants prévient les obstructions",
+        "Un entretien régulier améliore l’efficacité"
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des carottes ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les carottes, assurant un sol meuble et bien drainé. Plantez-vous des carottes ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les carottes",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "conversation": {
+      "human": "Bonjour, les drones peuvent-ils surveiller la couverture végétale ?",
+      "assistant": "Bonjour ! Oui, les drones équipés de capteurs multispectraux peuvent surveiller la couverture végétale, évaluant la densité des cultures. Ils sont coûteux mais précis. Suivez-vous la couverture végétale ?"
+    },
+    "info": {
+      "topic": "Surveillance de la couverture végétale avec des drones",
+      "category": "Technologie agricole",
+      "details": [
+        "Évalue la densité des cultures avec précision",
+        "Aide à la gestion des cultures",
+        "Nécessite une formation pour l’opérateur",
+        "Coût élevé"
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des mangues ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette récoltent les mangues sans endommager les arbres. Elles sont idéales pour les grands vergers. Avez-vous un verger de mangues ?"
+    },
+    "info": {
+      "topic": "Récolte de mangues",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des mangues",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des engrais liquides dans des zones vallonnées ?",
+      "assistant": "Salut ! Choisissez un pulvérisateur d’engrais liquides avec une transmission intégrale et des buses robustes pour les zones vallonnées. Assurez-vous qu’il est stable et facile à nettoyer. Êtes-vous dans une région vallonnée ?"
+    },
+    "info": {
+      "topic": "Distribution d’engrais liquides dans des zones vallonnées",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue les engrais uniformément",
+        "Nécessite un pulvérisateur stable",
+        "Convient aux terrains accidentés",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des épinards ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les épinards, assurant un sol meuble et bien drainé. Plantez-vous des épinards ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les épinards",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "conversation": {
+      "human": "Salut, comment entretenir le système de freinage d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système de freinage toutes les 200 heures, inspectez les niveaux de liquide et lubrifiez les composants. Si le freinage est faible, testez les plaquettes. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de freinage de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Les vérifications de liquide assurent les performances",
+        "La lubrification des composants réduit l’usure",
+        "Le test des plaquettes maintient la puissance de freinage",
+        "Un entretien régulier améliore la sécurité"
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du fromage ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de fromage mesurent l’humidité et la teneur en matières grasses, garantissant la qualité de la production. Produisez-vous du fromage ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du fromage",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure l’humidité et les matières grasses",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1200 $"
+      ]
+    }
+  },
+  {
+    "id": 140,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer des pesticides dans de grands vergers ?",
+      "assistant": "Salut ! Oui, un tracteur avec un pulvérisateur de pesticides à haute capacité peut distribuer des pesticides dans de grands vergers. Assurez-vous qu’il a des buses réglables pour une couverture uniforme. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution de pesticides dans de grands vergers",
+      "category": "Équipement de lutte antiparasitaire",
+      "details": [
+        "Applique les pesticides avec précision",
+        "Nécessite un pulvérisateur à haute capacité",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter du carvi ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont idéaux pour planter du carvi, garantissant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous du carvi ?"
+    },
+    "info": {
+      "topic": "Plantation de carvi",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au carvi",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système de refroidissement d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez le système de refroidissement toutes les 100 heures, nettoyez les ailettes du radiateur et inspectez le liquide de refroidissement. Si la température est élevée, testez le thermostat. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de refroidissement du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Le nettoyage des ailettes prévient la surchauffe",
+        "L’inspection du liquide assure les performances",
+        "Le test du thermostat maintient la température",
+        "Un entretien régulier prolonge la durée de vie du moteur"
+      ]
+    }
+  },
+  {
+    "id": 143,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des navets ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les navets, assurant un sol meuble et bien drainé. Plantez-vous des navets ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les navets",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 144,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller les niveaux d’humidité dans les serres ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs d’humidité peuvent surveiller les niveaux d’humidité dans les serres, optimisant les conditions de croissance. Ils sont coûteux mais efficaces. Gérez-vous une serre ?"
+    },
+    "info": {
+      "topic": "Surveillance des niveaux d’humidité dans les serres avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Surveille l’humidité avec précision",
+        "Optimise les conditions de croissance",
+        "Nécessite un investissement important",
+        "Convient aux grandes serres"
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des avocats ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette récoltent les avocats sans endommager les arbres. Elles sont idéales pour les grands vergers. Avez-vous un verger d’avocats ?"
+    },
+    "info": {
+      "topic": "Récolte d’avocats",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des avocats",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer du sable dans des zones vallonnées ?",
+      "assistant": "Salut ! Choisissez un épandeur de sable avec une transmission intégrale et une structure stable pour les zones vallonnées. Assurez-vous qu’il est robuste et facile à nettoyer. Êtes-vous dans une région vallonnée ?"
+    },
+    "info": {
+      "topic": "Distribution de sable dans des zones vallonnées",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le sable uniformément",
+        "Nécessite un épandeur stable",
+        "Convient aux terrains accidentés",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des poireaux ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les poireaux, assurant un sol meuble et bien drainé. Plantez-vous des poireaux ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les poireaux",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "conversation": {
+      "human": "Salut, comment entretenir le système d’embrayage d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système d’embrayage toutes les 200 heures, lubrifiez les composants et inspectez l’usure. Si l’engagement est difficile, ajustez la tension. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système d’embrayage de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "La lubrification réduit l’usure",
+        "L’inspection de l’usure prévient les pannes",
+        "L’ajustement de la tension assure un engagement fluide",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du yaourt ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de yaourt mesurent le pH et la teneur en bactéries, garantissant la qualité de la production. Produisez-vous du yaourt ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du yaourt",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure le pH et les bactéries",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1200 $"
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du compost dans de grands champs ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de compost à haute capacité peut distribuer du compost dans de grands champs. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous de grands champs ?"
+    },
+    "info": {
+      "topic": "Distribution de compost dans de grands champs",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le compost uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands champs",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  },
+  {
+    "id": 151,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour planter du cumin ?",
+      "assistant": "Bonjour ! Oui, les semoirs de précision pour petites graines sont parfaits pour planter du cumin, assurant un espacement régulier des graines. Ils conviennent aux petites exploitations. Cultivez-vous du cumin ?"
+    },
+    "info": {
+      "topic": "Plantation de cumin",
+      "category": "Équipement de semis",
+      "details": [
+        "Distribue les graines avec précision",
+        "Réduit le gaspillage de graines",
+        "Convient au cumin",
+        "L’entretien inclut le nettoyage des sorties de graines"
+      ]
+    }
+  },
+  {
+    "id": 152,
+    "conversation": {
+      "human": "Bonjour, comment entretenir le système de transmission d’un tracteur ?",
+      "assistant": "Bonjour ! Vérifiez la transmission toutes les 200 heures, inspectez le niveau d’huile et lubrifiez les engrenages. Si les changements de vitesse sont difficiles, testez l’huile. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système de transmission du tracteur",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "Les vérifications d’huile assurent les performances",
+        "La lubrification des engrenages réduit l’usure",
+        "Le test de l’huile prévient les problèmes",
+        "Un entretien régulier prolonge la durée de vie"
+      ]
+    }
+  },
+  {
+    "id": 153,
+    "conversation": {
+      "human": "Salut, y a-t-il des machines pour préparer le sol pour planter des oignons verts ?",
+      "assistant": "Salut ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les oignons verts, assurant un sol meuble et bien drainé. Plantez-vous des oignons verts ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les oignons verts",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "conversation": {
+      "human": "Bonjour, les robots peuvent-ils surveiller les niveaux de CO2 dans les serres ?",
+      "assistant": "Bonjour ! Oui, les robots équipés de capteurs de CO2 peuvent surveiller les niveaux de CO2 dans les serres, optimisant la photosynthèse. Ils sont coûteux mais efficaces. Gérez-vous une serre ?"
+    },
+    "info": {
+      "topic": "Surveillance des niveaux de CO2 dans les serres avec des robots",
+      "category": "Technologie agricole",
+      "details": [
+        "Surveille le CO2 avec précision",
+        "Optimise la photosynthèse",
+        "Nécessite un investissement important",
+        "Convient aux grandes serres"
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour récolter des kakis ?",
+      "assistant": "Bonjour ! Oui, les plateformes hydrauliques de cueillette récoltent les kakis sans endommager les arbres. Elles sont idéales pour les grands vergers. Avez-vous un verger de kakis ?"
+    },
+    "info": {
+      "topic": "Récolte de kakis",
+      "category": "Équipement de récolte",
+      "details": [
+        "Accélère la collecte des kakis",
+        "Protège les arbres",
+        "Nécessite une opération précise",
+        "L’entretien inclut la vérification des systèmes hydrauliques"
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "conversation": {
+      "human": "Salut, comment choisir une machine pour distribuer des pesticides dans des zones sèches ?",
+      "assistant": "Salut ! Choisissez un pulvérisateur de pesticides résistant à la poussière avec des buses durables pour les zones sèches. Assurez-vous qu’il est compatible avec votre tracteur et facile à nettoyer. Êtes-vous dans une région sèche ?"
+    },
+    "info": {
+      "topic": "Distribution de pesticides dans des zones sèches",
+      "category": "Équipement de lutte antiparasitaire",
+      "details": [
+        "Applique les pesticides avec précision",
+        "Les pulvérisateurs résistants à la poussière sont durables",
+        "Convient aux zones sèches",
+        "L’entretien inclut le nettoyage des buses"
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "conversation": {
+      "human": "Bonjour, y a-t-il des machines pour préparer le sol pour planter des choux de Bruxelles ?",
+      "assistant": "Bonjour ! Oui, les charrues légères et les machines de formation de billons préparent le sol pour les choux de Bruxelles, assurant un sol meuble et bien drainé. Plantez-vous des choux de Bruxelles ?"
+    },
+    "info": {
+      "topic": "Préparation du sol pour les choux de Bruxelles",
+      "category": "Équipement de labour",
+      "details": [
+        "Assure un sol meuble",
+        "Améliore le drainage de l’eau",
+        "Nécessite un tracteur léger",
+        "L’entretien inclut l’inspection des lames"
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "conversation": {
+      "human": "Salut, comment entretenir le système électrique d’une moissonneuse ?",
+      "assistant": "Salut ! Vérifiez le système électrique toutes les 200 heures, inspectez les connexions et testez les fusibles. Si les capteurs fonctionnent mal, nettoyez les contacts. Des problèmes ?"
+    },
+    "info": {
+      "topic": "Entretien du système électrique de la moissonneuse",
+      "category": "Maintenance d’équipement",
+      "details": [
+        "L’inspection des connexions prévient les pannes",
+        "Le test des fusibles assure la fiabilité",
+        "Le nettoyage des contacts maintient les performances",
+        "Un entretien régulier améliore la fonctionnalité"
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "conversation": {
+      "human": "Bonjour, existe-t-il des machines pour analyser la qualité du cidre ?",
+      "assistant": "Bonjour ! Oui, les analyseurs de cidre mesurent le sucre et l’alcool, garantissant la qualité de la production. Produisez-vous du cidre ?"
+    },
+    "info": {
+      "topic": "Analyse de la qualité du cidre",
+      "category": "Technologie agricole",
+      "details": [
+        "Mesure le sucre et l’alcool",
+        "Améliore la qualité de la production",
+        "Facile à utiliser",
+        "Coût à partir de 1100 $"
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "conversation": {
+      "human": "Salut, un tracteur peut-il distribuer du fumier liquide dans de grands vergers ?",
+      "assistant": "Salut ! Oui, un tracteur avec un épandeur de fumier liquide à haute capacité peut distribuer du fumier dans de grands vergers. Assurez-vous qu’il a des réglages ajustables pour une couverture uniforme. Avez-vous un grand verger ?"
+    },
+    "info": {
+      "topic": "Distribution de fumier liquide dans de grands vergers",
+      "category": "Équipement agricole",
+      "details": [
+        "Distribue le fumier uniformément",
+        "Nécessite un épandeur à haute capacité",
+        "Convient aux grands vergers",
+        "L’entretien inclut le nettoyage de l’épandeur"
+      ]
+    }
+  }
+]
