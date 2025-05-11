@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from api import chat, weather, disease  
+from api import chat, weather, disease, recommendation
 from config.settings import Settings
 
 # Initialize the FastAPI app
@@ -13,6 +13,7 @@ app = FastAPI(
 app.include_router(chat.router, prefix="/api/v1", tags=["Chat"])
 app.include_router(weather.router, prefix="/api/v1", tags=["Weather"])
 app.include_router(disease.router, prefix="/api/v1", tags=["Disease"])  
+app.include_router(recommendation.router, tags=["Recommendation"])  # No prefix for compatibility with specified endpoint
 
 # Entry point for running the application
 if __name__ == "__main__":

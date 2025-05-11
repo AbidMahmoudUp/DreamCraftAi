@@ -8,7 +8,9 @@ class Settings(BaseSettings):
     chroma_collection_name: str = "conversation_memory"
     llm_model: str = "llama3.2"
     weather_api_base_url: str = "http://localhost:8000"  # Internal base URL
-
+    mongodb_db_name: str = "chat_db"
+    mongodb_uri: str = "mongodb://localhost:27017/"
+    nestjs_api_base_url: str = "http://192.168.43.232:3000"
     class Config:
         env_file = ".env"
         env_file_encoding = "utf-8"

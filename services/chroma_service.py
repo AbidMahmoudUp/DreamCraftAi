@@ -329,26 +329,4 @@ class ChromaService:
             except Exception as nested_e:
                 logger.error(f"Even basic retrieval failed: {str(nested_e)}")
                 return ""
-    def store_conversation(self, question: str, response: str):
-        """Store a conversation for future retrieval."""
-        try:
-            from services.language_detection import detect_language
-            language = detect_language(question)
-            
-            combined_text = f"Question: {question}\nResponse: {response}"
-            embedding = self.embedding_model.embed_documents([combined_text])[0]
-            
-            self.collection.add(
-                documents=[combined_text],
-                embeddings=[embedding],
-                metadatas=[{
-                    "type": "conversation_history",
-                    "language": language,
-                    "source_file": "conversation"
-                }],
-                ids=[f"history_{self.document_id}"]
-            )
-            self.document_id += 1
-            logger.info(f"Stored conversation in {language}")
-        except Exception as e:
-            logger.error(f"Error storing conversation: {str(e)}")
+    

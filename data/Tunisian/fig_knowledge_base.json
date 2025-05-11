@@ -1,0 +1,117 @@
+{
+    "fig_topics": [
+      {
+        "topic": "amrath_tine",
+        "title": "El Amrath mta3 Zit Ettine",
+        "content": [
+          {
+            "subtitle": "El Tineya (La cochenille)",
+            "description": "Parasite yji yelbes el wra9 w el 3idan, yshouf kif 7abba beida w t3ayech fel chajra.",
+            "symptoms": [
+              "B9a3 beida 3al wra9 w el 3idan",
+              "El wra9 ybdew yetsakrou w ytie7ou",
+              "Tna9es el ghalla"
+            ],
+            "treatment": [
+              "Roch bel insecticide el monaseb",
+              "Naddhaf el chajra mel wra9 el mridha",
+              "Esta3mel saboun fekka7i"
+            ],
+            "prevention": [
+              "Roch wa9i fi avril w juin",
+              "7alli el chajra maftou7a bech tod5ol el chams",
+              "7areb el 7achrat men louwel"
+            ]
+          },
+          {
+            "subtitle": "El Soudia (Anthracnose)",
+            "description": "Fetr yji fi l’été w y5alli b9a3 sawda 3al tine w yfassad el ghalla.",
+            "symptoms": [
+              "B9a3 sawda 3al tine",
+              "El tine yetfassad w yfalles",
+              "Yji f’jaw mratheb"
+            ],
+            "treatment": [
+              "Roch bel fongicide el monaseb",
+              "Na7i el tine el metfassed",
+              "T7kim fil s9i bech ma ykounch zeyed"
+            ],
+            "prevention": [
+              "Roch fongicide 9bal el été",
+              "Ma ts9ich barcha fi jaw mratheb",
+              "Na7i el tine el ta7 men ta7t el chajra"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "ta9lim_tine",
+        "title": "Ta9lim Zit Ettine",
+        "content": [
+          {
+            "subtitle": "Wa9t el Ta9lim",
+            "description": "El ta9lim mta3 tine lazem ykoun fel chté ba3d ma tbared el chajra.",
+            "timing": [
+              "Janvier w février houma el a7sen",
+              "Ma t9allemch fi l’été",
+              "El ta9lim yji kol 2 snin"
+            ],
+            "important_notes": [
+              "Esta3mel m9as 7ad w ndhif",
+              "Dehen el 9ta3 b ma3joun w9ayi",
+              "Roch n7as ba3d el ta9lim"
+            ]
+          },
+          {
+            "subtitle": "Kifech T9allem",
+            "description": "El ta9lim ykoun bech t7el el wost w tnaddhef el chajra.",
+            "steps": [
+              "9os el 3idan el mratbin w el mdarmjin",
+              "7alli 4 à 5 3idan kbar",
+              "Na7i el suckers elli ykbour men ta7t"
+            ],
+            "tips": [
+              "T9allem fil sbeh el barki",
+              "7ot les déchets fi kissa w b3idhom",
+              "Ma tansa ch tna9i l'outils ba3d"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "ghalla_tine",
+        "title": "Ghallet Zit Ettine",
+        "content": [
+          {
+            "subtitle": "Zyed fil Ghalla",
+            "description": "Bech tzid fil ghalla, 5dem el chajra w samed w t9allem mli7.",
+            "techniques": [
+              "Samed b fumier fel chté",
+              "T9allem el chajra bech tod5ol chams",
+              "Roch bel bouillie bordelaise qabl el printemps"
+            ],
+            "timing": [
+              "S9i men avril 7atta août",
+              "El ta9lim janvier-février",
+              "El samad décembre w janvier"
+            ]
+          },
+          {
+            "subtitle": "Mochklet el Ghalla",
+            "description": "Tna9es el ghalla barcha ken fama mardh, s9i zayed wala torba 3ayba.",
+            "problems": [
+              "El tine yfalles 9bal el wa9t",
+              "El wra9 ytie7ou bech y9allem el photosynthèse",
+              "Fama 7achrat fi el 3idan"
+            ],
+            "solutions": [
+              "Roch wa9i bel fongicide w insecticide",
+              "S9i bel 9d w t7akem fel torba",
+              "Na7i el wra9 el maridha w el tine el metfassed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,148 @@
+{
+    "fig_topics": [
+      {
+        "title": "El Kermous wel Amrath",
+        "topic": "amrath_kermous",
+        "content": [
+          {
+            "subtitle": "El Ta3fen el Aswed",
+            "description": "Mardh yji fel kermous wa9tech ykoun el jaw mratreb w famma droub fel ghalla",
+            "symptoms": [
+              "El kermous yebda yet3afen men lwost",
+              "Ybadel el loun mta3ou w ykoun fih ri7a skhouna",
+              "Yji fih el doud",
+              "Yjib 7abbat mfachkhin w ytir menhoum el doud"
+            ],
+            "treatment": [
+              "Na77i el kermous el met3afen",
+              "Naddhaf ta7t el chajra mlij",
+              "Roch bel mbidet el monaseb 9bal el jani",
+              "T7awel temna3 el droub fil ghalla"
+            ],
+            "prevention": [
+              "Ejemma3 el kermous fel wa9t",
+              "Ma t5alich el ghalla barcha 3al chajra",
+              "9allem el chajra 9bal el saison",
+              "Raqeb el ghalla mli7 kol nhar"
+            ],
+            "common_phrases": [
+              "El ta3fen ykoun khater 3al ghalla",
+              "El droub yjib el ta3fen",
+              "El kermous ma y7ibch el jaw el mratreb",
+              "Lazem tsab9ou el mardh bil wa9aya"
+            ],
+            "seasonal_tips": {
+              "spring": [
+                "9allem el chajra fel rbi3",
+                "7adhar el chajra lel saison"
+              ],
+              "summer": [
+                "Raqeb el kermous mli7 wa9tech yebda ytnadh",
+                "Jamma3 fil wa9t w ma tzidch tet2akher"
+              ],
+              "fall": [
+                "Naddhaf el chajra men el wra9 el sa9tin",
+                "E5dem drainage 9bal el chté"
+              ],
+              "winter": [
+                "Na77i el feyedh men ta7t el chajra",
+                "Fassakh el chajra w khalli el hawa yod5ol"
+              ]
+            },
+            "dialogue_patterns": {
+              "questions": [
+                "Chnoua na3mel ken el kermous ybda yet3afen?",
+                "Wa9teh a7san wa9t lel jma3?",
+                "El doud yji mel ta3fen walla mel wra9?"
+              ],
+              "responses": [
+                "Ken el kermous yebda yet3afen, lazmek tjamma3 barcha mli bekri.",
+                "El jma3 ykoun mta3ni wa9tech el kermous ywalli ykhlat.",
+                "El doud yji 3al ghalla met3afna, 7awel temna3 el droub."
+              ]
+            },
+            "situational_context": {
+              "weather_related": [
+                "Ken el jaw mratreb, raqeb el chajra mli7",
+                "El 9tra w el chté yzidou men el mardh",
+                "Fel sayf, el 7ar ybassech el kermous"
+              ],
+              "seasonal_transitions": [
+                "9bal el saison, 9allem mli7",
+                "A7ki ma3a el jiran 3al wa9aya",
+                "T7awel tkoun msta3ed bel mbidet"
+              ]
+            },
+            "emotional_expressions": [
+              "El kermous el met3afen y9alle9 barcha!",
+              "Ya7sra 3al 7abta el behia ken teddiha el doud!",
+              "El 7amdoullah ken la7gna el mardh bekri!"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "El 5edma fel Kermous",
+        "topic": "5edmet_kermous",
+        "content": [
+          {
+            "subtitle": "El Ta9lim (La taille)",
+            "description": "El ta9lim mohem 3and el kermous bech yebda y3ti ghalla behia",
+            "techniques": [
+              "9allem el 3wood el taweel barcha",
+              "Farraj el chajra bech yod5ol el hawa",
+              "9os el 3wood el maridha",
+              "Naddhaf el chajra mel fou9 w mel ta7t"
+            ],
+            "timing": [
+              "El ta9lim ykoun fel chté",
+              "Ba3d ma tebda el chajra fi raha",
+              "Kol 2 snin ta9lemha marra",
+              "Ma t9allemch wa9t el 5lifa"
+            ],
+            "tools": [
+              "El menchwar w el men9ach ykounou ndhafin",
+              "Rach bel javel ba3d el ta9lim",
+              "Na7i el 3odda met3affa",
+              "Mata7ot-ch el 3odda 3al trab"
+            ],
+            "common_phrases": [
+              "El kermous ki ma t9allemouch, ywelly ghabet",
+              "El hawa mohem yod5ol lel chajra",
+              "Ta9lim mazbout ya3ti kermous behi",
+              "Rabbina ykather el ghalla, ama 5alleha tsala7"
+            ]
+          },
+          {
+            "subtitle": "El Trab wel Tesmi7",
+            "description": "El trab w el tesmi7 ykoun 3al 7sab el mnakh mta3 el blasa",
+            "soil_care": [
+              "7areth el trab 9bal el chté",
+              "Na77i el 7chich men 7wel el chajra",
+              "T7awel tkoun el ard mratba mech mgham9a",
+              "7ot chwaya fumier"
+            ],
+            "fertilization": [
+              "Zid el phosphore fi awel rbi3",
+              "L'azote ykoun 3al 7asab el 3omr",
+              "Ma tzidch smad barcha",
+              "El potasse y3awen 3al nodj"
+            ],
+            "irrigation": [
+              "El kermous y7eb chwaya ma fel rbi3 w sayf",
+              "El ma ykoun men ba3id, moch fou9 el 3or9",
+              "Ma tfartach fi el ri",
+              "Drainage mohem bech ma ygham9ach"
+            ],
+            "expert_tips": [
+              "El kermous yebda mli7 fi trab mfarrekh",
+              "El chajra el nadhifa ta3ti aghla ghalla",
+              "Nass el 5ibra y7otou fumier bel mi9dar",
+              "Raqeb el trab kima el ghalla"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

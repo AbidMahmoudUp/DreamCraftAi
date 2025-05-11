@@ -83,6 +83,21 @@ class LLMService:
                 "maladies olivier", "oeil de paon", "verticilliose",
                 # English terms
                 "olive diseases", "peacock eye", "verticillium"
+            ],
+            "karmous": [
+                # Tunisian terms
+                "karmous", "karma", "karmousa", "tin", "tina",
+                "chajret el karmous", "3oudhet el karmous",
+                "amrath el karmous", "mardh el karmous",
+                # Arabic terms
+                "تين", "شجرة التين", "أمراض التين",
+                "زراعة التين", "عقد التين",
+                # English terms
+                "fig", "fig tree", "fig diseases",
+                "fig cultivation", "ficus carica",
+                # French terms
+                "figue", "figuier", "maladies du figuier",
+                "culture du figuier"
             ]
         }
         
@@ -193,6 +208,80 @@ Un traitement préventif et l'utilisation de pesticides appropriés sont nécess
 - Verticillium wilt: causes yellowing and leaf drop
 - Rot: occurs with high humidity
 Preventive treatment and appropriate pesticide use are essential."""
+            },
+            "karmous": {
+                "tounsi": """# El Karmous: Techni9at el Zra3a wel 3inaya
+
+## El Zra3a wel Takthir
+- El karmous yetkathar bil 3oud wala bil fsi7
+- El wa9t el mriguel lel ghrass houa fel 5rif
+- Lazem el ardh tkoun 5afifa w fiha tasrif jayed lel ma
+
+## El 3inaya wel Tarbiya
+- El ta9lim ykoun fel chta ba3d ma ysib el wra9
+- El tesmid el 3odhwi mohemm barcha
+- Es9aya tkoun 7asb el 7aja w naw3 el trab
+
+## El Amrath wel Wa9aya
+- El karmous ye7eb el jaw el da7i wel ma9i
+- Lazem el wa9aya mel 7achrat wel fongus
+- El 3inaya bil karma t7assin el jowda wel kamiya
+
+## Nsa7i7 lel Felle7
+1. Lazem t5ayyer el sn7 el yjiik 7asb mant9tek
+2. El ghrassa ma te7bech barcha ma, amma te7eb el trab el 5asib
+3. El ta9lim el behi ya3tik ghalla behia
+4. Raqeb el karma mel 7achrat w amrath el wra9
+
+*Min tejribti, el karmous men ahem el ghallat el tounsia w yet7amel el jaw el 7arr.*""",
+                "arabic": """# شجرة التين: تقنيات الزراعة والعناية
+
+## الزراعة والإكثار
+- يتكاثر التين بالعقل أو بالفسائل
+- الوقت المناسب للغرس هو في الخريف
+- يحتاج لتربة خفيفة جيدة الصرف
+
+## العناية والتربية
+- التقليم يتم في الشتاء بعد تساقط الأوراق
+- التسميد العضوي مهم جداً
+- الري يكون حسب الحاجة ونوع التربة
+
+## الأمراض والوقاية
+- يفضل التين الجو الدافئ والجاف
+- ضرورة الوقاية من الحشرات والفطريات
+- العناية بالشجرة تحسن الجودة والإنتاجية""",
+                "french": """# Le Figuier: Techniques de Culture et Soins
+
+## Culture et Multiplication
+- Le figuier se multiplie par boutures ou rejets
+- La période idéale de plantation est l'automne
+- Nécessite un sol léger avec bon drainage
+
+## Soins et Éducation
+- La taille se fait en hiver après la chute des feuilles
+- La fertilisation organique est très importante
+- L'irrigation selon les besoins et le type de sol
+
+## Maladies et Prévention
+- Le figuier préfère un climat chaud et sec
+- Protection nécessaire contre insectes et champignons
+- Les soins améliorent qualité et productivité""",
+                "english": """# Fig Tree: Cultivation Techniques and Care
+
+## Cultivation and Propagation
+- Fig trees propagate through cuttings or offshoots
+- Ideal planting time is autumn
+- Requires light soil with good drainage
+
+## Care and Training
+- Pruning is done in winter after leaf fall
+- Organic fertilization is crucial
+- Irrigation based on needs and soil type
+
+## Diseases and Prevention
+- Figs prefer warm, dry climate
+- Protection needed from insects and fungi
+- Proper care improves quality and yield"""
             }
         }
         
